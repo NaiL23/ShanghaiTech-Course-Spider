@@ -39,8 +39,7 @@ for row in main_soup.find('table').tbody.find_all('tr'):
     df_new = pd.concat([pd.DataFrame({'id':id, 'code':code, 'name':name, 'en_name':en_name, 'college':college, 'teacher':teacher}, columns=['id', 'code', 'name', 'en_name', 'college', 'teacher'], index=[0]) for teacher in teachers],
           ignore_index=True)
     df = df.append(df_new, ignore_index=True)
-    break
-
+    
 # df.set_index(['id'], inplace=True)
 
 # Write to .csv (use | to separate since some course name contains ,comma)
