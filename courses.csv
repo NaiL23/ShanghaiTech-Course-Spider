@@ -1,0 +1,1241 @@
+|id|code|name|en_name|college|teacher
+0|493509|ARTS1101|编剧基础|Introduction to Screenwriting|创意与艺术学院|Peter Robinson
+1|493509|ARTS1101|编剧基础|Introduction to Screenwriting|创意与艺术学院|Irving Belateche
+2|493507|ARTS1102|剧本分析|Script Analysis|创意与艺术学院|Peter Robinson
+3|493507|ARTS1102|剧本分析|Script Analysis|创意与艺术学院|朱轶隽
+4|493507|ARTS1102|剧本分析|Script Analysis|创意与艺术学院|
+5|493507|ARTS1102|剧本分析|Script Analysis|创意与艺术学院|Craig Sabin
+6|493507|ARTS1102|剧本分析|Script Analysis|创意与艺术学院|Irving Belateche
+7|493505|ARTS1103|中级编剧|Intermediate Screenwriting|创意与艺术学院|Peter Robinson
+8|493505|ARTS1103|中级编剧|Intermediate Screenwriting|创意与艺术学院|Craig Sabin
+9|621449|ARTS1104|高级编剧|Practicum in Screenwriting|创意与艺术学院|Peter Robinson
+10|621449|ARTS1104|高级编剧|Practicum in Screenwriting|创意与艺术学院|Craig Sabin
+11|621448|ARTS1105|叙事与表达|Storytelling and Presentation|创意与艺术学院|朱轶隽
+12|745206|ARTS1106|英美剧赏析|US-UK Television Appreciation|创意与艺术学院|朱轶隽
+13|493568|ARTS1201|创意思考和绘画|Creative Thinking and Drawing|创意与艺术学院|Brooke Larsen
+14|493566|ARTS1202|素描写生|Life Drawing|创意与艺术学院|王搏
+15|493577|ARTS1203|色彩艺术与创意表达|The Art of Color & Creative Expressions|创意与艺术学院|王颉
+16|621451|ARTS1205|雕塑基础|Introduction to Sculpture|创意与艺术学院|王搏
+17|621450|ARTS1206|中国黑白木刻赏析与创作|Appreciation and Practice of Chinese Black and White Woodcuts|创意与艺术学院|辜居一
+18|745207|ARTS1207|视觉叙事|Visual Storytelling|创意与艺术学院|王搏
+19|693313|ARTS1208|色彩理论与应用|Colour Theory and Application|创意与艺术学院|王颉
+20|777532|ARTS1209|角色设计|Character Design|创意与艺术学院|王搏
+21|885694|ARTS1210|色彩实验与艺术表现|Color Experiment and Artistic Expression|创意与艺术学院|王颉
+22|885693|ARTS1211|插画基础|Fundamental of Illustration|创意与艺术学院|王搏
+23|493636|ARTS1301|创意编程和光雕投影|Projection Mapping and Creative Coding with Processing|创意与艺术学院|Jayson Haedbich
+24|493649|ARTS1302|游戏设计|Game Design|创意与艺术学院|Mikkel Lodahl
+25|493645|ARTS1303|Unity游戏创作|Unity Game Development|创意与艺术学院|陆璇迪
+26|493645|ARTS1303|Unity游戏创作|Unity Game Development|创意与艺术学院|Brian Cox,陆璇迪
+27|493645|ARTS1303|Unity游戏创作|Unity Game Development|创意与艺术学院|Brian Cox
+28|493643|ARTS1304|科技动画、建模和渲染|Scientific Animation, Modeling and Rendering|创意与艺术学院|颜格
+29|621452|ARTS1306|Unreal 游戏创作|Unreal Game Development|创意与艺术学院|Tomasz Dzierza
+30|493006|ARTS1401|西方艺术史|History of Western Arts|创意与艺术学院|顾卫民
+31|493006|ARTS1401|西方艺术史|History of Western Arts|创意与艺术学院|王颉
+32|493005|ARTS1402|动画史|Animation History|创意与艺术学院|程蒙蒙
+33|621445|ARTS1405|现代艺术导论|Introduction of Modern Art|创意与艺术学院|王受之,王颉
+34|621445|ARTS1405|现代艺术导论|Introduction of Modern Art|创意与艺术学院|王受之
+35|621445|ARTS1405|现代艺术导论|Introduction of Modern Art|创意与艺术学院|吕晓萌
+36|621445|ARTS1405|现代艺术导论|Introduction of Modern Art|创意与艺术学院|王颉
+37|621444|ARTS1406|创意思维|Creative Thinking|创意与艺术学院|朱力
+38|621443|ARTS1407|用户体验与创新设计|User Experience and Innovative Design|创意与艺术学院|杨华
+39|693303|ARTS1408|数码产品设计|Digital Product Design|创意与艺术学院|杨华
+40|745201|ARTS1409|初级交互设计|Introductory Interaction Design|创意与艺术学院|Hiroki Nishino
+41|746807|ARTS1410|意大利文化: 艺术和科学|Italian Culture: Art and Science|创意与艺术学院|Ernesto Carafoli
+42|756838|ARTS1411|交互设计心理学|Psychology of Interaction Design|创意与艺术学院|Predrag Nikolic
+43|777491|ARTS1412|数码产品设计|Digital Product Design|创意与艺术学院|杨华
+44|777490|ARTS1413|用户界面设计|User Interface Design|创意与艺术学院|Predrag Nikolic
+45|779525|ARTS1415|国际当代艺术全景|Panoramic View of International Contemporary Arts|创意与艺术学院|邱志杰
+46|816100|ARTS1417|产品设计与结构|How Things Work|创意与艺术学院|尹由之
+47|885665|ARTS1419|数码设计心理学|Psychology For Better Digital Design|创意与艺术学院|Predrag Nikolic
+48|493041|ARTS1501|电影视觉语言|Film As a Visual Language|创意与艺术学院|郭海涛
+49|493040|ARTS1502|电影艺术|Film Appreciation|创意与艺术学院|Tom Abrams
+50|493040|ARTS1502|电影艺术|Film Appreciation|创意与艺术学院|Robert Ramsey
+51|493039|ARTS1503|实验动画|Experimental Animation|创意与艺术学院|程蒙蒙
+52|493036|ARTS1504|娱乐设计|Design for Entertainment|创意与艺术学院|Vlad Bina
+53|621446|ARTS1506|摄影叙事与实践|The Photographic Language and Visual Storytelling|创意与艺术学院|周仰
+54|745202|ARTS1507|油画与综合材料|Oil Painting and Composite Materials|创意与艺术学院|王颉
+55|777498|ARTS1508|大众文化的生产与消费|Production & Consumption of Popular Culture|创意与艺术学院|鲍晓群
+56|816094|ARTS1509|游戏与动画叙事|Writing for Games and Animation|创意与艺术学院|Andrew James Gormley
+57|885628|ARTS1511|动画基础|Introduction to Animation Techniques|创意与艺术学院|Andrew James Gormley
+58|493063|ARTS1601|戏剧表演|Dramatic Performance|创意与艺术学院|周涛
+59|493062|ARTS1602|黄梅戏欣赏与体验|Huangmei Opera: Art and Practice|创意与艺术学院|徐菲
+60|493060|ARTS1603|京剧欣赏与体验|Peking Opera: Art and Practice|创意与艺术学院|赵群
+61|621447|ARTS1605|音乐剧欣赏与体验|Musical:Art and Practice|创意与艺术学院|张耀
+62|822229|ARTS1606|诗·歌·乐·戏|The Poetry of Time-based Art|创意与艺术学院|张梓倩
+63|756839|ARTS1701|设计思维：产品与交互设计的创新方案|Design Thinking: Innovative Solutions in Product and Interactive Design|创意与艺术学院|Predrag Nikolic
+64|756839|ARTS1701|设计思维：产品与交互设计的创新方案|Design Thinking: Innovative Solutions in Product and Interactive Design|创意与艺术学院|Shmueli Shimon
+65|756839|ARTS1701|设计思维：产品与交互设计的创新方案|Design Thinking: Innovative Solutions in Product and Interactive Design|创意与艺术学院|Shimon Shmueli
+66|756839|ARTS1701|设计思维：产品与交互设计的创新方案|Design Thinking: Innovative Solutions in Product and Interactive Design|创意与艺术学院|顾明德
+67|756839|ARTS1701|设计思维：产品与交互设计的创新方案|Design Thinking: Innovative Solutions in Product and Interactive Design|创意与艺术学院|杨华
+68|756839|ARTS1701|设计思维：产品与交互设计的创新方案|Design Thinking: Innovative Solutions in Product and Interactive Design|创意与艺术学院|陈晨
+69|493009|BHSC1001|谈判|Negotiation|创业与管理学院|杨宇
+70|493007|BHSC1002|组织行为学|Organizational Behavior|创业与管理学院|徐剑锋
+71|493007|BHSC1002|组织行为学|Organizational Behavior|创业与管理学院|戴珒
+72|493022|BHSC1003|高效沟通力|Effective Communication|创业与管理学院|Steffen Ummelmann
+73|493022|BHSC1003|高效沟通力|Effective Communication|创业与管理学院|刘波
+74|493021|BHSC1004|创业沟通技能|Entrepreneurial Communication Skills|创业与管理学院|Jamie Dixon
+75|493020|BHSC1005|人类行为科学I：基本心理学理论及方法|Science of Human Behaviors I: Fundamental Psychological Theories and Methodology|创业与管理学院|杨丽凤
+76|493020|BHSC1005|人类行为科学I：基本心理学理论及方法|Science of Human Behaviors I: Fundamental Psychological Theories and Methodology|创业与管理学院|周昊天
+77|493019|BHSC1006|伦理：哲思，心理和应用|Morality: Philosophy, Psychology and Practice|创业与管理学院|戴珒
+78|493019|BHSC1006|伦理：哲思，心理和应用|Morality: Philosophy, Psychology and Practice|创业与管理学院|周昊天
+79|493018|BHSC1007|消费者心理学|Consumer Psychology|创业与管理学院|杨丽凤
+80|493016|BHSC1009|理性的沦陷：错误决定和愚蠢选择背后的心理学|Faulty decisions and dumb choices: how rationality unravels in an uncertain world|创业与管理学院|周昊天
+81|885656|BHSC1303|消费者心理学|Consumer Psychology|创业与管理学院|杨丽凤
+82|693300|BIO1014|普通化学IIB|General Chemistry IIB|生命科学与技术学院|陆珺霞
+83|777509|BIO1044|RNA生物学|RNA Biology|生命科学与技术学院|刘如娟
+84|777518|BIO1065|生物生理代谢|Metabolism in Biology and Physiology|生命科学与技术学院|洪诗雅
+85|777517|BIO1066|血管生物学|Vascular Biology|生命科学与技术学院|张辉
+86|816095|BIO1067|免疫学|Immunology|生命科学与技术学院|王皞鹏
+87|885632|BIO1068|癌症生物学|Cancer Biology|生命科学与技术学院|刘雪松
+88|695702|BIO1102|神经科学导论|Introduction of Neurobiology|生命科学与技术学院|胡霁
+89|693299|BIO1208|科技英语写作|English Writing for Sciences|生命科学与技术学院|何淑君
+90|885630|BIO1224|类脑器官|Brain Organoids|生命科学与技术学院|向阳飞
+91|822275|BIO2001|分子生物学I|Molecular Biology I|生命科学与技术学院|陈佳
+92|822275|BIO2001|分子生物学I|Molecular Biology I|生命科学与技术学院|刘艳芬
+93|822272|BIO2002|分子生物学II|Molecular Biology II|生命科学与技术学院|陈佳
+94|822271|BIO2003|实验生物学|Experimental Biology|生命科学与技术学院|黄行许
+95|822271|BIO2003|实验生物学|Experimental Biology|生命科学与技术学院|陈佳
+96|822274|BIO2004|生物统计学|Biostatistics|生命科学与技术学院|陈洛南
+97|822273|BIO2005|细胞生物学I|Cell Biology (Lecture)|生命科学与技术学院|范高峰
+98|822273|BIO2005|细胞生物学I|Cell Biology (Lecture)|生命科学与技术学院|王华翌
+99|822273|BIO2005|细胞生物学I|Cell Biology (Lecture)|生命科学与技术学院|何淑君
+100|822268|BIO2006|细胞生物学II|Cell Biology (Discussion Class)|生命科学与技术学院|范高峰
+101|822268|BIO2006|细胞生物学II|Cell Biology (Discussion Class)|生命科学与技术学院|助教IV
+102|822268|BIO2006|细胞生物学II|Cell Biology (Discussion Class)|生命科学与技术学院|助教
+103|822268|BIO2006|细胞生物学II|Cell Biology (Discussion Class)|生命科学与技术学院|助教II
+104|822268|BIO2006|细胞生物学II|Cell Biology (Discussion Class)|生命科学与技术学院|助教III
+105|822270|BIO2008|结构生物学|Structural Biology|生命科学与技术学院|刘志杰
+106|822269|BIO2009|神经生物学|Neurobiology|生命科学与技术学院|胡霁
+107|822259|BIO2010|发育生物学|Developmental Biology|生命科学与技术学院|吕鹏飞
+108|822261|BIO2011|分子微生物学|Molecular Microbiology|生命科学与技术学院|孙俊松
+109|822260|BIO2012|生物工艺学前沿|Current biotechnology|生命科学与技术学院|郝健
+110|822257|BIO2013|免疫生物学|Immunology|生命科学与技术学院|王皞鹏
+111|822255|BIO2014|生物信息学|Bioinformatics|生命科学与技术学院|赵素文
+112|493148|BIO2015|科技英语写作|English Writing for Sciences|生命科学与技术学院|何淑君
+113|822258|BIO2016|干细胞生物学|Stem Cell Biology|生命科学与技术学院|林照博
+114|822258|BIO2016|干细胞生物学|Stem Cell Biology|生命科学与技术学院|周智
+115|822258|BIO2016|干细胞生物学|Stem Cell Biology|生命科学与技术学院|孙建龙
+116|822254|BIO2017|高级表观遗传学|Advanced Epigenetics|生命科学与技术学院|李夏军
+117|822253|BIO2018|染色质生物学|Chromatin Biology|生命科学与技术学院|高冠军
+118|816102|BIO2019|认知神经生物学|Cognitive Neuroscience|生命科学与技术学院|管吉松
+119|822267|BIO2020|GPCR信号通路及药物发现|GPCR Biology and Drug Development|生命科学与技术学院|徐菲
+120|493163|BIO2021|模式生物学|Model Organism in Biology|生命科学与技术学院|齐瀛川
+121|493163|BIO2021|模式生物学|Model Organism in Biology|生命科学与技术学院|童夏静
+122|493166|BIO2022|代谢生物学|Metabolism|生命科学与技术学院|洪诗雅
+123|818588|BIO2023|科学伦理与规范|Scientific Ethics|生命科学与技术学院|岑慧枝
+124|818588|BIO2023|科学伦理与规范|Scientific Ethics|生命科学与技术学院|徐菲
+125|818588|BIO2023|科学伦理与规范|Scientific Ethics|生命科学与技术学院|罗振革
+126|818588|BIO2023|科学伦理与规范|Scientific Ethics|生命科学与技术学院|杨扬
+127|818588|BIO2023|科学伦理与规范|Scientific Ethics|生命科学与技术学院|王彤
+128|822264|BIO2024|蛋白质工程|Protein Engineering|生命科学与技术学院|杨海涛
+129|611119|BIO2025|基因编辑原理设计与应用|Principle, Design and Application of Gene Editing|生命科学与技术学院|陈佳
+130|822266|BIO2026|高级分子生物学|Advanced Molecular Biology|生命科学与技术学院|刘艳芬
+131|822266|BIO2026|高级分子生物学|Advanced Molecular Biology|生命科学与技术学院|陈佳
+132|822265|BIO2027|高级细胞生物学|Advanced Cell Biology|生命科学与技术学院|王华翌
+133|822265|BIO2027|高级细胞生物学|Advanced Cell Biology|生命科学与技术学院|范高峰
+134|822265|BIO2027|高级细胞生物学|Advanced Cell Biology|生命科学与技术学院|孙建龙
+135|822262|BIO2028|跨尺度成像理论和实践|Imaging Cross Scales Theory and Practice|生命科学与技术学院|钟桂生
+136|693304|BIO2029|发现之旅-细胞生物学实践与创新|Discovery in Cell Biology - Practice and Innovation|生命科学与技术学院|赵简
+137|695703|BIO2030|发育神经生物学|Developmental Neurobiology|生命科学与技术学院|齐瀛川
+138|822289|BIO2031|冷冻电子显微学|Cryo-electron Microscopy|生命科学与技术学院|杜迪军
+139|822289|BIO2031|冷冻电子显微学|Cryo-electron Microscopy|生命科学与技术学院|沈庆涛
+140|822288|BIO2032|RNA前沿研究技术|Frontier technology for RNA Biology|生命科学与技术学院|刘如娟
+141|822288|BIO2032|RNA前沿研究技术|Frontier technology for RNA Biology|生命科学与技术学院|Tomoyasu Sugiyama
+142|822292|BIO2033|蛋白质组学原理及在精准医学中应用|Proteomics for Precision Medicine|生命科学与技术学院|水雯箐
+143|822291|BIO2034|基因与基因组生物学|Gene and Genome Biology|生命科学与技术学院|林照博
+144|822291|BIO2034|基因与基因组生物学|Gene and Genome Biology|生命科学与技术学院|刘艳芬
+145|822285|BIO2035|高级蛋白质生物化学|Advanced Protein Biochemistry|生命科学与技术学院|庄敏
+146|822284|BIO2036|光学显微成像及单分子技术|Light microscopy and single-molecule techniques|生命科学与技术学院|孙博
+147|822287|BIO2037|免疫生物学|Immunology|生命科学与技术学院|王皞鹏
+148|822286|BIO2038|生物统计学|Biostatistics|生命科学与技术学院|白芳
+149|822283|BIO2039|基因表达调控|Gene Expression and Regulation|生命科学与技术学院|马涵慧
+150|822301|BIO2040|肿瘤细胞生物学|Cancer Cell Biology|生命科学与技术学院|仓勇
+151|822300|BIO2041|细胞信号转导|Cell Signal Transduction|生命科学与技术学院|沈伟
+152|822299|BIO2042|细胞死亡和自噬|Cell Death and Autophahy|生命科学与技术学院|范高峰
+153|822299|BIO2042|细胞死亡和自噬|Cell Death and Autophahy|生命科学与技术学院|王华翌
+154|822298|BIO2043|高级细胞生物学|Advanced Cell Biology|生命科学与技术学院|刘雪松
+155|822298|BIO2043|高级细胞生物学|Advanced Cell Biology|生命科学与技术学院|李磊
+156|816104|BIO2045|分子药理学概论|Essentials of molecular pharmacology|生命科学与技术学院|华甜
+157|822295|BIO2046|大分子药物：从基础研究到商业化|Macromolecular Drugs: from Laboratory Research to Commercialization|生命科学与技术学院|刘佳
+158|822294|BIO2047|科研图像处理基础|Basics of Scientific Image Processing|生命科学与技术学院|李晓明
+159|822297|BIO2048|科技英语写作|English Writing for Sciences|生命科学与技术学院|Christopher Lee Antos
+160|822297|BIO2048|科技英语写作|English Writing for Sciences|生命科学与技术学院|何淑君
+161|822296|BIO2049|生物学研究与论文写作|Biology Research and Writing|生命科学与技术学院|刘冀珑
+162|822276|BIO2050|膜生物学|Membrane Biology|生命科学与技术学院|廖军
+163|885675|BIO2051|感染免疫学|Infectious Immunology|生命科学与技术学院|刘佳
+164|885674|BIO2052|分子病毒学|Principles of Molecular Virology|生命科学与技术学院|杨贝
+165|885673|BIO2053|分子细胞神经科学|Molecular and Cellular Neuroscience|生命科学与技术学院|Katsuhiko Mikoshiba,罗振革
+166|887344|BIO2058|现代生物物理技术|Modern Biophysical Techniques|生命科学与技术学院|孙博
+167|887345|BIO2059|分子医学|Molecular Medicine|生命科学与技术学院|池天
+168|887346|BIO2061|血管生物学：理论与实验|Vascular Biology: theory and experiment|生命科学与技术学院|张辉
+169|887347|BIO2062|癌症基因组与精准医疗|Cancer Genome and Precision Medicine|生命科学与技术学院|刘雪松
+170|822326|BIO2901|物理有机化学（第一学期）|Physical Organic Chemistry 1st|生命科学与技术学院|
+171|822326|BIO2901|物理有机化学（第一学期）|Physical Organic Chemistry 1st|生命科学与技术学院|教育基地II
+172|822324|BIO2902|有机结构分析|Organic Structure Analysis|生命科学与技术学院|教育基地I
+173|822329|BIO2903|有机合成|Organic Syntheses|生命科学与技术学院|
+174|822329|BIO2903|有机合成|Organic Syntheses|生命科学与技术学院|教育基地II
+175|822328|BIO2904|生物信息与算法|Bioinformatics Algorithms|生命科学与技术学院|教育基地I
+176|822321|BIO2905|运筹学|Operations Research|生命科学与技术学院|
+177|822321|BIO2905|运筹学|Operations Research|生命科学与技术学院|教育基地I
+178|822323|BIO2907|神经生物学B|Neurobiology|生命科学与技术学院|教育基地III
+179|822323|BIO2907|神经生物学B|Neurobiology|生命科学与技术学院|教育基地I
+180|822323|BIO2907|神经生物学B|Neurobiology|生命科学与技术学院|
+181|822322|BIO2908|免疫生物学B|Immunology|生命科学与技术学院|
+182|822322|BIO2908|免疫生物学B|Immunology|生命科学与技术学院|教育基地IV
+183|822320|BIO2909|发育生物学B|Developmental Biology|生命科学与技术学院|
+184|822320|BIO2909|发育生物学B|Developmental Biology|生命科学与技术学院|教育基地I
+185|822320|BIO2909|发育生物学B|Developmental Biology|生命科学与技术学院|教育基地II
+186|822338|BIO2910|生物信息学B|Bioinformatics|生命科学与技术学院|
+187|822338|BIO2910|生物信息学B|Bioinformatics|生命科学与技术学院|教育基地IV
+188|822337|BIO2911|物理有机化学（第二学期）|Physical Organic Chemistry 2nd|生命科学与技术学院|
+189|822337|BIO2911|物理有机化学（第二学期）|Physical Organic Chemistry 2nd|生命科学与技术学院|教育基地II
+190|822335|BIO2912|植物生理与分子生物学|Plant Physiology and Molecular Biology|生命科学与技术学院|教育基地III
+191|822335|BIO2912|植物生理与分子生物学|Plant Physiology and Molecular Biology|生命科学与技术学院|
+192|822335|BIO2912|植物生理与分子生物学|Plant Physiology and Molecular Biology|生命科学与技术学院|教育基地IV
+193|822334|BIO2913|营养学|Nutriology|生命科学与技术学院|
+194|822334|BIO2913|营养学|Nutriology|生命科学与技术学院|教育基地V
+195|822336|BIO2915|系统论|System Theory|生命科学与技术学院|
+196|822336|BIO2915|系统论|System Theory|生命科学与技术学院|教育基地II
+197|822331|BIO2916|人类进化遗传学|Evolutionary genetics|生命科学与技术学院|
+198|822331|BIO2916|人类进化遗传学|Evolutionary genetics|生命科学与技术学院|教育基地V
+199|822331|BIO2916|人类进化遗传学|Evolutionary genetics|生命科学与技术学院|教育基地I
+200|822331|BIO2916|人类进化遗传学|Evolutionary genetics|生命科学与技术学院|教育基地II
+201|822333|BIO2918|天然产物化学|Chemistry of Nature Products|生命科学与技术学院|教育基地V
+202|822332|BIO2919|高等药理学|Pharmacology|生命科学与技术学院|
+203|822332|BIO2919|高等药理学|Pharmacology|生命科学与技术学院|教育基地I
+204|822332|BIO2919|高等药理学|Pharmacology|生命科学与技术学院|教育基地II
+205|822341|BIO2920|药物化学|Medicinal Chemistry|生命科学与技术学院|教育基地V
+206|822343|BIO2921|高级微生物学|Advanced Microbiology|生命科学与技术学院|
+207|822343|BIO2921|高级微生物学|Advanced Microbiology|生命科学与技术学院|教育基地IV
+208|822342|BIO2922|计算生物学原理与方法|Principles of Computational Biology|生命科学与技术学院|教育基地I
+209|822340|BIO2923|现代昆虫学|Modern Entomolog|生命科学与技术学院|
+210|822339|BIO2924|微生物系统与合成生物学|Microbe Systems and Synthetic Biology|生命科学与技术学院|
+211|693307|BME1002|分子与细胞生物学|Molecular and Cell Biology|生命科学与技术学院|李磊
+212|693307|BME1002|分子与细胞生物学|Molecular and Cell Biology|生命科学与技术学院|Yuu Kimata
+213|816103|BME1021|生物医学工程综合实践|Problems in Biomedical Engineering|生命科学与技术学院|陈雪松
+214|693308|BME1022|分子与细胞生物学实验|Experiments in Molecular and Cell Biology|生命科学与技术学院|杨静,陈雪松
+215|693308|BME1022|分子与细胞生物学实验|Experiments in Molecular and Cell Biology|生命科学与技术学院|陈雪松
+216|777540|BME1069|生物医学统计|biomedical statistics|生命科学与技术学院|白芳
+217|777540|BME1069|生物医学统计|biomedical statistics|生命科学与技术学院|白芳,陈洪涛
+218|885691|BME1090|冷冻电子显微学基础|Fundamentals of Cryo-Electron Microscopy|生命科学与技术学院|王权
+219|693309|BME1205|计算生物学|Computational Biology|生命科学与技术学院|赵素文
+220|777526|BME1220|组织工程学|Tissue Engineering|生命科学与技术学院|孙建龙
+221|621644|BME2001|核酸递送与基因治疗|Nucleic acids delivery for gene therapy|生命科学与技术学院|李剑峰
+222|693302|BME2002|生物信息学|Bioinformatics|生命科学与技术学院|张力烨
+223|745209|BME2003|神经信号的采集与人机智能技术概览|Introduction to brain signals and brain-inspired computing|生命科学与技术学院|管吉松
+224|745208|BME2004|固态核磁概论|Introduction to solid-state NMR|生命科学与技术学院|陆珺霞
+225|777533|BME2006|电子显微学基础|Fundamentals of Electron Microscopy|生命科学与技术学院|王权
+226|777534|BME2007|合成生物学|Synthetic Biology|生命科学与技术学院|Hisashi Tadakuma
+227|779395|BME2008|医学病理学|Pathology|生命科学与技术学院|张翼锋
+228|816096|BME2009|核磁共振原理|The principle of NMR spectroscopy|生命科学与技术学院|陆珺霞
+229|816097|BME2010|电子显微学前沿进展|Advances in Electron Microscopy|生命科学与技术学院|王权
+230|816098|BME2011|再生医学原理|Principles of Regenerative Medicine|生命科学与技术学院|向阳飞
+231|885657|BME2012|电子显微学实践|Electron microscopy in practice|生命科学与技术学院|王权
+232|885682|BME2101|医学图像处理与分析|Medical image processing and analysis|生物医学工程学院|张雷
+233|885683|BME2102|磁共振成像原理|Principles of Magnetic Resonance Imaging|生物医学工程学院|齐海坤
+234|493550|CHEM1100|普通化学I实验|General Chemistry I Lab|物质科学与技术学院|张琼
+235|493550|CHEM1100|普通化学I实验|General Chemistry I Lab|物质科学与技术学院|王江干
+236|493550|CHEM1100|普通化学I实验|General Chemistry I Lab|物质科学与技术学院|曹金丽
+237|493550|CHEM1100|普通化学I实验|General Chemistry I Lab|物质科学与技术学院|寇蕾
+238|493550|CHEM1100|普通化学I实验|General Chemistry I Lab|物质科学与技术学院|张云艳
+239|493556|CHEM1101|普通化学IA|General Chemistry IA|物质科学与技术学院|席红霞
+240|493556|CHEM1101|普通化学IA|General Chemistry IA|物质科学与技术学院|米启兮
+241|493555|CHEM1102|普通化学IB|General Chemistry IB|物质科学与技术学院|程素芳
+242|493555|CHEM1102|普通化学IB|General Chemistry IB|物质科学与技术学院|曹金丽
+243|622166|CHEM1103|普通化学I|General Chemistry I|物质科学与技术学院|任毅
+244|622166|CHEM1103|普通化学I|General Chemistry I|物质科学与技术学院|李一凡
+245|622166|CHEM1103|普通化学I|General Chemistry I|物质科学与技术学院|濮超丹
+246|622166|CHEM1103|普通化学I|General Chemistry I|物质科学与技术学院|刘朋昕
+247|622166|CHEM1103|普通化学I|General Chemistry I|物质科学与技术学院|谢琎
+248|622166|CHEM1103|普通化学I|General Chemistry I|物质科学与技术学院|叶柏华
+249|622166|CHEM1103|普通化学I|General Chemistry I|物质科学与技术学院|乔博
+250|622166|CHEM1103|普通化学I|General Chemistry I|物质科学与技术学院|米启兮
+251|622166|CHEM1103|普通化学I|General Chemistry I|物质科学与技术学院|宁志军
+252|622166|CHEM1103|普通化学I|General Chemistry I|物质科学与技术学院|姜珊
+253|493473|CHEM1110|普通化学II实验|General Chemistry II Lab|物质科学与技术学院|张云艳
+254|493472|CHEM1111|普通化学II|General Chemistry II|物质科学与技术学院|钟超
+255|493472|CHEM1111|普通化学II|General Chemistry II|物质科学与技术学院|李涛
+256|493472|CHEM1111|普通化学II|General Chemistry II|物质科学与技术学院|王江干
+257|885654|CHEM1120|大学化学|College chemistry|物质科学与技术学院|纪清清
+258|493012|CHEM1190|分析化学实验|Analytical Chemistry Lab|物质科学与技术学院|程素芳
+259|493012|CHEM1190|分析化学实验|Analytical Chemistry Lab|物质科学与技术学院|曹金丽
+260|493012|CHEM1190|分析化学实验|Analytical Chemistry Lab|物质科学与技术学院|王江干
+261|493010|CHEM1191|分析化学|Analytical Chemistry|物质科学与技术学院|洪洁
+262|493248|CHEM1300|无机化学实验|Inorganic Chemistry Lab|物质科学与技术学院|张琼
+263|493251|CHEM1301|无机化学|Inorganic Chemistry|物质科学与技术学院|林柏霖
+264|493623|CHEM1320|有机化学I实验|Organic Chemistry I Lab|物质科学与技术学院|曹金丽
+265|493623|CHEM1320|有机化学I实验|Organic Chemistry I Lab|物质科学与技术学院|寇蕾
+266|493628|CHEM1321|有机化学I|Organic Chemistry I|物质科学与技术学院|李智
+267|493627|CHEM1322|有机化学基础|Fundamentals of Organic Chemistry|物质科学与技术学院|高得伟
+268|493627|CHEM1322|有机化学基础|Fundamentals of Organic Chemistry|物质科学与技术学院|杨晓瑜
+269|493524|CHEM1330|有机化学II实验|Organic Chemistry II Lab|物质科学与技术学院|寇蕾
+270|493523|CHEM1331|有机化学II|Organic Chemistry II|物质科学与技术学院|左智伟
+271|493523|CHEM1331|有机化学II|Organic Chemistry II|物质科学与技术学院|梁广鑫
+272|493553|CHEM1341|简明生物化学|Essential Biochemistry|物质科学与技术学院|李健
+273|493470|CHEM1350|物理化学I实验|Physical Chemistry I Lab|物质科学与技术学院|王江干
+274|493468|CHEM1351|物理化学I|Physical Chemistry I|物质科学与技术学院|杨波
+275|493490|CHEM1360|物理化学II实验|Physical Chemistry II Lab|物质科学与技术学院|王江干
+276|493493|CHEM1361|物理化学II|Physical Chemistry II|物质科学与技术学院|孙淮
+277|493493|CHEM1361|物理化学II|Physical Chemistry II|物质科学与技术学院|杨波
+278|493493|CHEM1361|物理化学II|Physical Chemistry II|物质科学与技术学院|Franklin Jongmyung Kim
+279|493424|CHEM1372|结构化学|Structural Chemistry|物质科学与技术学院|陈启明
+280|493424|CHEM1372|结构化学|Structural Chemistry|物质科学与技术学院|Yongjin Lee
+281|493424|CHEM1372|结构化学|Structural Chemistry|物质科学与技术学院|卓联洋
+282|493437|CHEM1381|化工原理|Principles of Chemical Engineering|物质科学与技术学院|齐鸣斋
+283|493437|CHEM1381|化工原理|Principles of Chemical Engineering|物质科学与技术学院|冯继成
+284|493066|CHEM1390|仪器分析实验|Instrumental Analysis Lab|物质科学与技术学院|寇蕾
+285|493066|CHEM1390|仪器分析实验|Instrumental Analysis Lab|物质科学与技术学院|王江干
+286|493065|CHEM1391|仪器分析|Instrumental Analysis|物质科学与技术学院|季泉江
+287|493270|CHEM1512|结晶化学|Crystal Chemistry|物质科学与技术学院|章跃标
+288|493283|CHEM1520|高级合成实验|Advanced Synthesis Labs|物质科学与技术学院|曹金丽
+289|493283|CHEM1520|高级合成实验|Advanced Synthesis Labs|物质科学与技术学院|叶柏华
+290|759595|CHEM1521|探究类化学实验|Exploring chemistry lab|物质科学与技术学院|张云艳
+291|493288|CHEM1523|绿色化学|Green Chemistry|物质科学与技术学院|李智
+292|493233|CHEM1530|电化学|Electrochemistry|物质科学与技术学院|马贵军
+293|493249|CHEM1541|环境化学|Environmental Chemistry|物质科学与技术学院|Jeremy Phillip Krogman
+294|493554|CHEM1583|化工计算|Chemical Engineering Calculations|物质科学与技术学院|王宏达
+295|493552|CHEM1584|胶体与表面化学|Colloid and Surface Chemistry|物质科学与技术学院|Franklin Jongmyung Kim
+296|493557|CHEM1585|催化原理基础|The Principles of Catalysis|物质科学与技术学院|马贵军
+297|493562|CHEM1587|量子化学|Quantum Chemistry|物质科学与技术学院|Yongjin Lee
+298|493104|CHEM1701|化学生物学|Chemical biology|物质科学与技术学院|季泉江
+299|493428|CHEM2101|高等无机化学|Advanced Inorganic Chemistry|物质科学与技术学院|Jeremy Phillip Krogman
+300|493428|CHEM2101|高等无机化学|Advanced Inorganic Chemistry|物质科学与技术学院|舒谋海
+301|822315|CHEM2102|高等物理化学|Advanced Physical Chemistry|物质科学与技术学院|黄逸凡
+302|822315|CHEM2102|高等物理化学|Advanced Physical Chemistry|物质科学与技术学院|祝艳
+303|822315|CHEM2102|高等物理化学|Advanced Physical Chemistry|物质科学与技术学院|濮超丹
+304|818581|CHEM2103|高等无机化学|Advanced Inorganic Chemistry|物质科学与技术学院|翁祖谦
+305|822317|CHEM2104|现代仪器分析|Modern Instrumental Analysis|物质科学与技术学院|康经武
+306|822317|CHEM2104|现代仪器分析|Modern Instrumental Analysis|物质科学与技术学院|郑宜君
+307|822318|CHEM2105|高分子化学与物理|Polymer Chemistry and Physics|物质科学与技术学院|黄晓宇
+308|822316|CHEM2106|金属有机化学|Organometallic Chemistry|物质科学与技术学院|黄正
+309|779196|CHEM2107|高等有机化学|Advanced Organic Chemistry|物质科学与技术学院|梁广鑫
+310|822319|CHEM2108|高分子化学与物理|Polymer Chemistry and Physics|物质科学与技术学院|黄晓宇
+311|779199|CHEM2110|结晶化学|Crystal Chemistry|物质科学与技术学院|章跃标
+312|493445|CHEM2111|固体化学|Solid State Chemistry|物质科学与技术学院|章跃标
+313|822330|CHEM2112|电化学原理、方法和应用|Electrochemical Fundamentals, methods and Applications|物质科学与技术学院|杨辉
+314|822325|CHEM2113|金属有机化学II|Frontier of Organometallic Chemistry|物质科学与技术学院|高得伟
+315|822327|CHEM2114|手性合成|Asymmetric Synthesis|物质科学与技术学院|杨晓瑜
+316|650193|CHEM2115|实验电化学|Experimental Electrochemistry|物质科学与技术学院|黄逸凡
+317|885690|CHEM2116|气溶胶科学与技术|Aerosol Science and Technology|物质科学与技术学院|冯继成
+318|819183|CHEM2117|超分子化学|An introduction to supramolecular chemistry|物质科学与技术学院|甄家劲
+319|901211|CHEM2118|无机合成化学|Inorganic Synthesis Chemistry|物质科学与技术学院|卓联洋
+320|493067|CHEM2121|高等有机化学|Advanced Organic Chemistry|物质科学与技术学院|汤文军
+321|493067|CHEM2121|高等有机化学|Advanced Organic Chemistry|物质科学与技术学院|丁奎岭
+322|622150|CHEM2122|物理有机化学|Physical organic chemistry|物质科学与技术学院|甄家劲
+323|822230|CHEM2124|功能高分子|Functional Polymer|物质科学与技术学院|凌盛杰
+324|815881|CHEM2201|有机波谱分析|Organic Spectroscopy|物质科学与技术学院|乔博
+325|815882|CHEM2202|能源催化基础|Fundamentals of catalysis for energy|物质科学与技术学院|杨帆
+326|493496|CHEM2211|无机材料物理化学|Physical Chemistry of Inorganic Materials|物质科学与技术学院|杨楠
+327|493438|CHEM2231|光谱学|Spectroscopy|物质科学与技术学院|米启兮
+328|777505|CHEM2252|表面化学|Surface and interfacial chemistry|物质科学与技术学院|杨帆
+329|493042|CHEM2261|计算催化|Computational Catalysis|物质科学与技术学院|杨波
+330|493057|CHEM2271|计算化学|Computational Chemistry|物质科学与技术学院|李圣刚
+331|493033|CHEM2291|膜科学与技术|Membrane Science and Technology|物质科学与技术学院|何涛
+332|493598|CHEM2401|主族元素化学|Main-Group Element Chemistry|物质科学与技术学院|任毅
+333|815894|CHEM2501|现代分子催化原理|Modern molecular catalysis principle|物质科学与技术学院|林柏霖
+334|751084|CHEM2502|有机化学进阶|Intermediate Organic Chemistry|物质科学与技术学院|梁广鑫
+335|751085|CHEM2503|精准有机合成策略|Tactics in classical and advanced organic chemistry|物质科学与技术学院|叶柏华
+336|885698|CHEM2520|高级合成实验|Advanced Synthesis Lab|物质科学与技术学院|曹金丽
+337|777500|CHEM3001|金属材料与结构设计|Metallic Materials and  Structure design|创意与艺术学院|张振波
+338|777501|CHEM3002|材料的智能制造|Intelligent ManufacturinTechnologies for Materials|创意与艺术学院|魏斌
+339|822248|CHEM5031|物理有机化学（上、下）|Physical Organic Chemistry|物质科学与技术学院|
+340|822247|CHEM5032|有机合成|Organic Synthesis|物质科学与技术学院|
+341|822252|CHEM5033|合成设计|Asymmetric Synthesis|物质科学与技术学院|
+342|822251|CHEM5034|有机合成（全）|Organic Synthesis|物质科学与技术学院|
+343|822250|CHEM5035|金属有机化学|Organometallic Chemistry|物质科学与技术学院|
+344|822249|CHEM5036|不对称合成|Asymmetric synthesis|物质科学与技术学院|
+345|822207|CHEM5117|有机结构分析|Organic Structure Analysis|物质科学与技术学院|
+346|493281|CLEC1001|形势与政策|The Situation and the Policy (Seminar)|书院|
+347|493281|CLEC1001|形势与政策|The Situation and the Policy (Seminar)|书院|焦成焕
+348|493281|CLEC1001|形势与政策|The Situation and the Policy (Seminar)|书院|周华
+349|493281|CLEC1001|形势与政策|The Situation and the Policy (Seminar)|书院|陈维雯
+350|779195|CLEC1003|军事理论|Military Course in Theory|书院|陈维雯
+351|779195|CLEC1003|军事理论|Military Course in Theory|书院|张国清
+352|815880|CLNS1001|行星巡游器系统设计与实践|Planetary rover system design and practice|书院|郭明
+353|777511|CLPE1001|游泳运动与健康|SWIMMING|书院|潘黎君,黄卫
+354|777511|CLPE1001|游泳运动与健康|SWIMMING|书院|黄卫
+355|777511|CLPE1001|游泳运动与健康|SWIMMING|书院|潘黎君
+356|777510|CLPE1002|科学健身与田径运动|Fitness and Health|书院|王然
+357|777510|CLPE1002|科学健身与田径运动|Fitness and Health|书院|陈超
+358|777510|CLPE1002|科学健身与田径运动|Fitness and Health|书院|李玉章
+359|777510|CLPE1002|科学健身与田径运动|Fitness and Health|书院|唐军
+360|777510|CLPE1002|科学健身与田径运动|Fitness and Health|书院|唐军,李玉章,王然
+361|815866|CLSK1001|现代金工设计与实践|Modern metalworking design and practice|书院|陈坚
+362|885633|CPRA1006|军事技能|Military Course in Practice|书院|
+363|493028|CS100|计算机编程|Introduction to Programming|信息科学与技术学院|郑杰
+364|493028|CS100|计算机编程|Introduction to Programming|信息科学与技术学院|刘晓培
+365|493028|CS100|计算机编程|Introduction to Programming|信息科学与技术学院|许岚
+366|493028|CS100|计算机编程|Introduction to Programming|信息科学与技术学院|陈浩
+367|493024|CS101|算法与数据结构|Algorithms and Data Structures|信息科学与技术学院|赵登吉
+368|493024|CS101|算法与数据结构|Algorithms and Data Structures|信息科学与技术学院|江智浩,赵登吉
+369|493024|CS101|算法与数据结构|Algorithms and Data Structures|信息科学与技术学院|张玉瑶,赵登吉
+370|493639|CS101H|计算机程序语言和数据结构|Programming Languages and Data Structures|信息科学与技术学院|陈浩
+371|493618|CS101W|数据结构|Data Structures|信息科学与技术学院|屠可伟
+372|493618|CS101W|数据结构|Data Structures|信息科学与技术学院|赵登吉
+373|493038|CS110|计算机体系结构I|Computer Architecture I|信息科学与技术学院|王春东
+374|493038|CS110|计算机体系结构I|Computer Architecture I|信息科学与技术学院|Sören Schwertfeger
+375|493265|CS110P|计算机体系结构I课程设计|Computer Architecture I Project|信息科学与技术学院|王春东
+376|493265|CS110P|计算机体系结构I课程设计|Computer Architecture I Project|信息科学与技术学院|Sören Schwertfeger
+377|493265|CS110P|计算机体系结构I课程设计|Computer Architecture I Project|信息科学与技术学院|Sören Schwertfeger,王春东
+378|493035|CS120|计算机网络|Computer Networks|信息科学与技术学院|邵子瑜
+379|493035|CS120|计算机网络|Computer Networks|信息科学与技术学院|杨智策
+380|493000|CS121|并行计算|Parallel Computing|信息科学与技术学院|范睿
+381|492995|CS130|操作系统I|Operating Systems I|信息科学与技术学院|殷树
+382|492995|CS130|操作系统I|Operating Systems I|信息科学与技术学院|谢涛
+383|493372|CS130P|操作系统I课程设计|Operating Systems Project|信息科学与技术学院|殷树
+384|492996|CS131|编译原理|Compilers|信息科学与技术学院|宋富
+385|493003|CS132|软件工程|Software Engineering|信息科学与技术学院|唐宇田
+386|493003|CS132|软件工程|Software Engineering|信息科学与技术学院|江智浩
+387|517005|CS133H|C++进阶编程|Advanced Programming in C++|信息科学与技术学院|Laurent Kneip
+388|493002|CS140|算法基础|Algorithms|信息科学与技术学院|虞晶怡
+389|493002|CS140|算法基础|Algorithms|信息科学与技术学院|范睿
+390|493586|CS150|数据库与数据挖掘|Database and Data Mining|信息科学与技术学院|何旭明
+391|493586|CS150|数据库与数据挖掘|Database and Data Mining|信息科学与技术学院|孙露
+392|885670|CS150A|数据库|Database|信息科学与技术学院|孙露
+393|493589|CS151|计算机安全I|Computer Security I|信息科学与技术学院|陈浩
+394|777537|CS152|应用密码学|Applied Cryptography|信息科学与技术学院|张良峰
+395|493525|CS171|计算机图形学I|Computer Graphics I|信息科学与技术学院|刘晓培
+396|493525|CS171|计算机图形学I|Computer Graphics I|信息科学与技术学院|虞晶怡
+397|493522|CS172|计算机视觉I|Computer Vision I|信息科学与技术学院|高盛华
+398|493422|CS177H|生物信息学：软件开发与应用|Bioinformatics: Software Development and Applications|信息科学与技术学院|郑杰
+399|493551|CS181|人工智能I|Artificial Intelligence I|信息科学与技术学院|屠可伟
+400|885661|CS182|机器学习引论|Introduction to Machine Learning|信息科学与技术学院|赵子平
+401|815884|CS183|机器人学导论|Introduction to Robotics|信息科学与技术学院|刘松
+402|493025|CS190A|音频内容分析导论|An Introduction to Audio Content Analysis|信息科学与技术学院|Alexander Lerch
+403|493029|CS190B|网络和文本挖掘|Web and Text Mining|信息科学与技术学院|周轶璐
+404|493061|CS210|计算机体系结构III|Computer Architecture III|信息科学与技术学院|殷树
+405|777502|CS211|计算机体系结构II|Computer Architecture II|信息科学与技术学院|王春东
+406|493026|CS222|无线与移动系统|Wireless and Mobile Systems|信息科学与技术学院|杨智策
+407|493037|CS233|智能医疗仪器软件的设计与验证|Software Development and Validation for Medical Cyber Physical Systems|信息科学与技术学院|江智浩
+408|493034|CS240|算法设计与分析|Algorithm Design and Analysis|信息科学与技术学院|屠可伟
+409|493034|CS240|算法设计与分析|Algorithm Design and Analysis|信息科学与技术学院|李权
+410|493034|CS240|算法设计与分析|Algorithm Design and Analysis|信息科学与技术学院|范睿
+411|493001|CS243|算法博弈导论|Introduction to Algorithmic Game Theory|信息科学与技术学院|赵登吉
+412|492999|CS244|计算理论|Theory of Computation|信息科学与技术学院|宋富
+413|492997|CS252|密码学|Cryptography|信息科学与技术学院|张良峰
+414|493593|CS270|数字图像处理|Digital Image Processing|信息科学与技术学院|任无畏
+415|493593|CS270|数字图像处理|Digital Image Processing|信息科学与技术学院|张玉瑶
+416|493593|CS270|数字图像处理|Digital Image Processing|信息科学与技术学院|郑锐
+417|493593|CS270|数字图像处理|Digital Image Processing|信息科学与技术学院|蔡夕然
+418|493587|CS271|计算机图形学II|Computer Graphics II|信息科学与技术学院|马月昕
+419|493587|CS271|计算机图形学II|Computer Graphics II|信息科学与技术学院|虞晶怡
+420|493587|CS271|计算机图形学II|Computer Graphics II|信息科学与技术学院|彭其瀚
+421|493590|CS272|计算机视觉II|Computer Vision II|信息科学与技术学院|高盛华
+422|493379|CS275H|计算机动画与物理仿真|Computer Animation and Physical Simulation|信息科学与技术学院|刘晓培
+423|493634|CS276|计算影像学|Computational Photography|信息科学与技术学院|虞晶怡
+424|611964|CS277|数据科学与金融科技概论|Introduction to Data Science and Fintech|信息科学与技术学院|张海鹏
+425|493624|CS280|深度学习|Deep Learning|信息科学与技术学院|何旭明
+426|493624|CS280|深度学习|Deep Learning|信息科学与技术学院|许岚
+427|493621|CS282|机器学习|Machine Learning|信息科学与技术学院|杨思蓓
+428|493621|CS282|机器学习|Machine Learning|信息科学与技术学院|王浩
+429|493622|CS283|机器人|Robotics|信息科学与技术学院|Sören Schwertfeger
+430|493619|CS284|即时定位与地图构建|Simultaneous Localization and Mapping|信息科学与技术学院|Laurent Kneip
+431|493620|CS285|机电一体化|Mechatronics|信息科学与技术学院|Andre Luis Macedo Rosendo Silva
+432|611963|CS286|人工智能在科学与工程学的应用|AI for Science and Engineering|信息科学与技术学院|郑杰
+433|609939|CS290K|高阶分布式系统|Advanced Distributed Systems|信息科学与技术学院|谢涛
+434|742424|CS290L|符号人工智能|Symbolic Artificial Intelligence|信息科学与技术学院|周熠
+435|822211|CS290P|计算机编程与数据结构基础|introduction to programming and data structure|信息科学与技术学院|马月昕
+436|822227|CS370|计算机视觉前沿|Advanced Topics in Computer Vision|信息科学与技术学院|高盛华
+437|493646|ECON1001|经济学导论|Introduction to Economics|创业与管理学院|何晨
+438|493646|ECON1001|经济学导论|Introduction to Economics|创业与管理学院|徐剑锋
+439|493646|ECON1001|经济学导论|Introduction to Economics|创业与管理学院|Soojin Kim
+440|493646|ECON1001|经济学导论|Introduction to Economics|创业与管理学院|陶涵毅
+441|493646|ECON1001|经济学导论|Introduction to Economics|创业与管理学院|杨锡怡
+442|493646|ECON1001|经济学导论|Introduction to Economics|创业与管理学院|王龙
+443|493646|ECON1001|经济学导论|Introduction to Economics|创业与管理学院|申培垚
+444|493646|ECON1001|经济学导论|Introduction to Economics|创业与管理学院|陈禕
+445|493646|ECON1001|经济学导论|Introduction to Economics|创业与管理学院|陆丁
+446|493646|ECON1001|经济学导论|Introduction to Economics|创业与管理学院|司唯
+447|493646|ECON1001|经济学导论|Introduction to Economics|创业与管理学院|吴文豪
+448|493646|ECON1001|经济学导论|Introduction to Economics|创业与管理学院|洪苏婷
+449|493646|ECON1001|经济学导论|Introduction to Economics|创业与管理学院|陈劼
+450|493644|ECON1002|微观经济学|Microeconomics|创业与管理学院|杨锡怡
+451|493644|ECON1002|微观经济学|Microeconomics|创业与管理学院|陈琛
+452|493644|ECON1002|微观经济学|Microeconomics|创业与管理学院|郭明
+453|493641|ECON1003|宏观经济学|Macroeconomics|创业与管理学院|申培垚
+454|493641|ECON1003|宏观经济学|Macroeconomics|创业与管理学院|洪苏婷
+455|493641|ECON1003|宏观经济学|Macroeconomics|创业与管理学院|杨锡怡
+456|493641|ECON1003|宏观经济学|Macroeconomics|创业与管理学院|袁志刚
+457|493583|ECON1004|中国经济解析|Understanding the Chinese Economy|创业与管理学院|杨锡怡
+458|493582|ECON1005|实验经济学|Experimental Economics|创业与管理学院|申培垚
+459|493581|ECON1006|中级微观经济|Intermediate Microeconomics|创业与管理学院|William Chan
+460|493581|ECON1006|中级微观经济|Intermediate Microeconomics|创业与管理学院|申培垚
+461|493581|ECON1006|中级微观经济|Intermediate Microeconomics|创业与管理学院|Soojin Kim
+462|493580|ECON1007|创新经济学|Economics of Innovation|创业与管理学院|郦光伟
+463|696596|ECON1008|计量分析方法与建模|Econometric Analysis and Modeling|创业与管理学院|何晨,司唯
+464|696596|ECON1008|计量分析方法与建模|Econometric Analysis and Modeling|创业与管理学院|司唯
+465|885697|ECON1009|能源经济学|Energy Economics|创业与管理学院|申培垚
+466|885699|ECON1010|发展经济学|Economics of Developing Countries|创业与管理学院|陈劼
+467|885700|ECON1011|商业分析与经济统计工具|Programming for Business and Economics|创业与管理学院|何晨,司唯
+468|885700|ECON1011|商业分析与经济统计工具|Programming for Business and Economics|创业与管理学院|司唯
+469|885692|ECON1201|管理经济学|Managerial Microeconomics|创业与管理学院|陆丁
+470|818573|ECON1305|博弈论|Game Theory|创业与管理学院|吴文豪
+471|493350|EE101|医学影像学|Medical Imaging|信息科学与技术学院|郑锐
+472|493330|EE111|电路基础|Electric Circuits|信息科学与技术学院|叶朝锋
+473|493330|EE111|电路基础|Electric Circuits|信息科学与技术学院|邹新波
+474|493330|EE111|电路基础|Electric Circuits|信息科学与技术学院|王浩宇
+475|493330|EE111|电路基础|Electric Circuits|信息科学与技术学院|刘宇
+476|493330|EE111|电路基础|Electric Circuits|信息科学与技术学院|李娟
+477|493330|EE111|电路基础|Electric Circuits|信息科学与技术学院|周平强
+478|493128|EE111L|电路基础实验|Electric Circuits Lab|信息科学与技术学院|李娟
+479|493129|EE111P|电路基础课程设计|Electric Circuits Project|信息科学与技术学院|周平强
+480|493333|EE112|模拟集成电路I|Analog Integrated Circuits|信息科学与技术学院|王浩宇
+481|493333|EE112|模拟集成电路I|Analog Integrated Circuits|信息科学与技术学院|任豪
+482|493333|EE112|模拟集成电路I|Analog Integrated Circuits|信息科学与技术学院|高飞
+483|493336|EE113|数字集成电路I|Digital Integrated Circuit Design|信息科学与技术学院|李娟
+484|493336|EE113|数字集成电路I|Digital Integrated Circuit Design|信息科学与技术学院|寇煦丰
+485|493336|EE113|数字集成电路I|Digital Integrated Circuit Design|信息科学与技术学院|祝智峰
+486|493056|EE113P|数字集成电路I课程设计|Digital Integrated Circuit Design Project|信息科学与技术学院|寇煦丰,李娟
+487|493056|EE113P|数字集成电路I课程设计|Digital Integrated Circuit Design Project|信息科学与技术学院|祝智峰
+488|493056|EE113P|数字集成电路I课程设计|Digital Integrated Circuit Design Project|信息科学与技术学院|寇煦丰
+489|493316|EE114|嵌入式系统|Introduction to Embedded Systems|信息科学与技术学院|刘闯,吴涛
+490|493316|EE114|嵌入式系统|Introduction to Embedded Systems|信息科学与技术学院|吴涛
+491|493316|EE114|嵌入式系统|Introduction to Embedded Systems|信息科学与技术学院|梁俊睿
+492|493074|EE114P|嵌入式系统课程设计|Introduction to Embedded Systems Project|信息科学与技术学院|梁俊睿
+493|493319|EE115|模拟与数字电路|Analog and Digital Circuits|信息科学与技术学院|高飞
+494|885667|EE115A|模拟电路|Analog Circuits|信息科学与技术学院|刘闯,高飞
+495|885666|EE115B|数字电路|Digital Circuits|信息科学与技术学院|李娟,杨恒昭
+496|493070|EE115L|模拟与数字电路实验|Analog and Digital Circuits Lab|信息科学与技术学院|刘闯
+497|493322|EE116|基于FPGA的硬件系统设计|FPGA-based Hardware System Design|信息科学与技术学院|哈亚军,李娟
+498|493322|EE116|基于FPGA的硬件系统设计|FPGA-based Hardware System Design|信息科学与技术学院|哈亚军
+499|493322|EE116|基于FPGA的硬件系统设计|FPGA-based Hardware System Design|信息科学与技术学院|李娟
+500|493277|EE120|半导体器件基础|Fundamentals of Semiconductor Devices|信息科学与技术学院|陈佰乐
+501|493277|EE120|半导体器件基础|Fundamentals of Semiconductor Devices|信息科学与技术学院|杨雨梦
+502|611961|EE123|微电子器件|Microelectronic Devices|信息科学与技术学院|寇煦丰
+503|493127|EE123H|微电子器件|Microelectronic Devices|信息科学与技术学院|寇煦丰
+504|493301|EE124|微纳加工与微机电系统基础|Introduction to Micro/Nano-machining and MEMS|信息科学与技术学院|吴涛
+505|493294|EE125|激光原理|Principles of Lasers|信息科学与技术学院|王成
+506|493258|EE130|电磁学|Electromagnetics|信息科学与技术学院|邹毅
+507|493258|EE130|电磁学|Electromagnetics|信息科学与技术学院|王雄
+508|493169|EE130P|电磁学课程设计|Electromagnetics Project|信息科学与技术学院|王雄
+509|493260|EE131|物理光学|Physical Optics|信息科学与技术学院|邹毅
+510|493186|EE131H|物理光学|Physical Optics|信息科学与技术学院|邹毅
+511|493245|EE140|通信原理|Introduction to Communication Systems|信息科学与技术学院|钱骅
+512|493245|EE140|通信原理|Introduction to Communication Systems|信息科学与技术学院|罗喜良
+513|493245|EE140|通信原理|Introduction to Communication Systems|信息科学与技术学院|吴幼龙
+514|493245|EE140|通信原理|Introduction to Communication Systems|信息科学与技术学院|廉黎祥
+515|493247|EE142|基础信息论|Fundamentals of Information Theory|信息科学与技术学院|吴幼龙
+516|493226|EE150|信号与系统|Signals and Systems|信息科学与技术学院|罗喜良
+517|493226|EE150|信号与系统|Signals and Systems|信息科学与技术学院|陆林燕
+518|493226|EE150|信号与系统|Signals and Systems|信息科学与技术学院|周勇
+519|493226|EE150|信号与系统|Signals and Systems|信息科学与技术学院|徐林
+520|493226|EE150|信号与系统|Signals and Systems|信息科学与技术学院|赵子平
+521|493256|EE150L|信号与系统实验|Signals and Systems Lab|信息科学与技术学院|陆林燕
+522|493229|EE152|数字信号处理|Digital Signal Processing|信息科学与技术学院|任无畏
+523|493229|EE152|数字信号处理|Digital Signal Processing|信息科学与技术学院|娄鑫
+524|493194|EE160|控制原理|Introduction to Control|信息科学与技术学院|Boris Houska
+525|493194|EE160|控制原理|Introduction to Control|信息科学与技术学院|汪阳
+526|493231|EE160P|控制原理课程设计|Introduction to Control Project|信息科学与技术学院|Boris Houska
+527|493231|EE160P|控制原理课程设计|Introduction to Control Project|信息科学与技术学院|汪阳
+528|493192|EE161|线性系统I|Linear Systems I|信息科学与技术学院|陆疌
+529|493171|EE171|电力电子|Power Electronics|信息科学与技术学院|傅旻帆
+530|493386|EE212|模拟集成电路II|Analog Integrated Circuits II|信息科学与技术学院|高飞
+531|493380|EE213|数字集成电路II|Digital Integrated Circuits II|信息科学与技术学院|周平强
+532|493381|EE216|可重构计算|Reconfigurable Computing|信息科学与技术学院|哈亚军
+533|815900|EE217|射频集成电路|Radiofrequency Integrated Circuits|信息科学与技术学院|吕宏鸣
+534|815901|EE218|数字VLSI设计|Digital VLSI Design|信息科学与技术学院|娄鑫
+535|815883|EE218P|数字VLSI设计课程设计|Digital VLSI Design Project|信息科学与技术学院|娄鑫
+536|493347|EE220|半导体器件物理|Physics of Semiconductor Devices|信息科学与技术学院|陈佰乐
+537|815899|EE221|固体物理学|Solid State Physics|信息科学与技术学院|杨雨梦
+538|493351|EE222|光电器件II|Optoelectronic Devices II|信息科学与技术学院|王成
+539|822309|EE224|微机电系统原理与设计|MEMS Physics & Design|信息科学与技术学院|吴涛
+540|777504|EE224A|微纳器件工艺基础|Micro/Nano Processing Technology|信息科学与技术学院|任豪
+541|815889|EE224B|微纳机电系统基础|Introduction to MEMS Design|信息科学与技术学院|吴涛
+542|822231|EE224G|微机电系统设计进阶与实践|Advanced MEMS Design and Practice|信息科学与技术学院|吴涛
+543|822233|EE224I|微纳器件工艺实验|Micro/Nano Processing Technology Lab|信息科学与技术学院|吴涛
+544|822232|EE224J|微纳机电系统实验|Introduction to MEMS Design Lab|信息科学与技术学院|吴涛
+545|822234|EE224L|微纳加工工艺实验|Micro/Nano-fabrication Lab|信息科学与技术学院|任豪
+546|822234|EE224L|微纳加工工艺实验|Micro/Nano-fabrication Lab|信息科学与技术学院|吴涛
+547|822235|EE224M|微纳加工工艺进阶与实践|Advanced Micro/Nano-Fabrication and Practice|信息科学与技术学院|吴涛
+548|493346|EE225|传感技术及接口电路|Sensing Technologies and Interface Circuit|信息科学与技术学院|任豪
+549|777524|EE227|纳米电子学|Introduction to Nanoelectronics|信息科学与技术学院|杨雨梦
+550|815898|EE228|激光器与激光动力学|lasers and laser dynamics|信息科学与技术学院|王成
+551|493303|EE230|微波工程I|Microwave Engineering I|信息科学与技术学院|王雄
+552|777499|EE234B|天线理论与设计|Antenna Theory and Design|信息科学与技术学院|林丰涵
+553|493320|EE236|电磁传感与检测|Electromagnetic Sensing and Testing|信息科学与技术学院|叶朝锋
+554|493068|EE236H|无损检测与传感器技术选论|Nondestructive Testing and Sensing Technology Selection|信息科学与技术学院|叶朝锋
+555|690983|EE237|自旋电子学|Spintronics|信息科学与技术学院|祝智峰
+556|777522|EE238|微纳光学与器件|Micro & Nano Optical Devices|信息科学与技术学院|丛龙庆
+557|493276|EE240|数字通信|Digital Communications|信息科学与技术学院|吴幼龙
+558|822293|EE241|无线通信|Fundamentals of Wireless Communications|信息科学与技术学院|周勇
+559|493297|EE242|网络信息论|Network Information Theory|信息科学与技术学院|耿艳林
+560|493299|EE244|光通信系统|Optical Communication Systems|信息科学与技术学院|邹新波
+561|822280|EE250|数字信号处理II|Digital Signal Processing II|信息科学与技术学院|李明齐
+562|822205|EE250H|数字信号处理II|Digital Signal Processing II|信息科学与技术学院|李明齐
+563|493259|EE251|信号检测和估计|Signal Detection and Estimation|信息科学与技术学院|罗喜良
+564|493261|EE252|数字信号处理的VLSI实现|VLSI Implementation of DSP|信息科学与技术学院|娄鑫
+565|815864|EE253B|压缩感知|Compressive Sensing|信息科学与技术学院|廉黎祥
+566|611960|EE254|高阶数字信号处理|Advanced Digital Signal Processing|信息科学与技术学院|徐林
+567|493246|EE261|线性系统II|Linear Systems II|信息科学与技术学院|陆疌
+568|690982|EE264|自适应控制|Adaptive Control|信息科学与技术学院|汪阳
+569|493232|EE270|电力电子变换器建模与控制|Power Electronic Converters Modeling and Control|信息科学与技术学院|王浩宇
+570|493227|EE271|电力系统|Power System|信息科学与技术学院|刘宇
+571|493228|EE272|可再生能源系统|Renewable Energy Systems|信息科学与技术学院|梁俊睿
+572|493230|EE273|高级电能变换技术|Advanced Power Conversion Techniques|信息科学与技术学院|傅旻帆
+573|815893|EE274|储能器件与系统|Energy Storage Devices and Systems|信息科学与技术学院|杨恒昭
+574|493323|EE290A|网络编码理论|Network Coding Theory|信息科学与技术学院|蔡宁
+575|822302|EE290B|卫星系统与控制|Satellite Control and Navigation Systems|信息科学与技术学院|林宝军
+576|493318|EE290C|导波光学|Guided Wave Optics|信息科学与技术学院|邹毅
+577|493321|EE290D|太赫兹光电子学|Terahertz Opto-electronics|信息科学与技术学院|曹俊诚
+578|493400|EE290S|硅射频集成电路设计|SiCMOS RF IC Design|信息科学与技术学院|田彤
+579|822312|EE290T|电子与电气工程领域专题学习/设计|Special studies or projects in Electrical Engineering|信息科学与技术学院|周平强
+580|493409|EE290U|网络理论与分析|Network Theory and Analytics|信息科学与技术学院|Antonio G. Marques
+581|619338|EE290V|集成电路设计流程|IC Design Flow|信息科学与技术学院|杨展悌
+582|822313|EE290W|无线通信前沿技术研究|Frontier Technologies in Wireless Communications|信息科学与技术学院|廉黎祥
+583|822314|EE290X|电路基础（简化）|Electric Circuit (Basics)|信息科学与技术学院|蔡夕然
+584|885689|EE290Y|医学影像物理基础|Physics in Medical Imaging|信息科学与技术学院|蔡夕然
+585|492998|ENTR1001|创业导论—机会识别、评估和扩张（机会识别与优化模块）|Introduction to Entrepreneurship——Opportunities: Identification, Assessment & Expansion (Opportunity Identification and Refinement Module)|创业与管理学院|郑雯
+586|492998|ENTR1001|创业导论—机会识别、评估和扩张（机会识别与优化模块）|Introduction to Entrepreneurship——Opportunities: Identification, Assessment & Expansion (Opportunity Identification and Refinement Module)|创业与管理学院|Philip Kim
+587|492998|ENTR1001|创业导论—机会识别、评估和扩张（机会识别与优化模块）|Introduction to Entrepreneurship——Opportunities: Identification, Assessment & Expansion (Opportunity Identification and Refinement Module)|创业与管理学院|Yujin Kim
+588|492987|ENTR1002|创业导论—机会：识别、评估和扩张（机会评估——财务评估模块）|Introduction to Entrepreneurship——Opportunities: Identification, Assessment & Expansion (Opportunity Assessment-Financial evaluation Module)|创业与管理学院|Lee Henderson
+589|492987|ENTR1002|创业导论—机会：识别、评估和扩张（机会评估——财务评估模块）|Introduction to Entrepreneurship——Opportunities: Identification, Assessment & Expansion (Opportunity Assessment-Financial evaluation Module)|创业与管理学院|李玫
+590|492987|ENTR1002|创业导论—机会：识别、评估和扩张（机会评估——财务评估模块）|Introduction to Entrepreneurship——Opportunities: Identification, Assessment & Expansion (Opportunity Assessment-Financial evaluation Module)|创业与管理学院|贾建军
+591|492987|ENTR1002|创业导论—机会：识别、评估和扩张（机会评估——财务评估模块）|Introduction to Entrepreneurship——Opportunities: Identification, Assessment & Expansion (Opportunity Assessment-Financial evaluation Module)|创业与管理学院|LeeHendersson
+592|492988|ENTR1003|创业导论——机会:识别、评估和扩张（市场范围评估模块）|Introduction to Entrepreneurship——Identification, Assessment & Expansion (Marketing Scoping)|创业与管理学院|范筱萌
+593|492988|ENTR1003|创业导论——机会:识别、评估和扩张（市场范围评估模块）|Introduction to Entrepreneurship——Identification, Assessment & Expansion (Marketing Scoping)|创业与管理学院|周小宇
+594|492989|ENTR1004|平台战略：分析、设计与执行|Platform Strategies: Analysis, Design, and Implementation|创业与管理学院|Philip Kim
+595|492990|ENTR1005|创业理论|Entrepreneurship Theory|创业与管理学院|David Emanuel Andersson
+596|492991|ENTR1006|商业决策和技术创新|Business Strategy and Technological Innovation|创业与管理学院|郑雯
+597|492991|ENTR1006|商业决策和技术创新|Business Strategy and Technological Innovation|创业与管理学院|Yujin Kim
+598|492992|ENTR1007|创业领导力|Startup Leadership|创业与管理学院|戴珒
+599|492993|ENTR1008|新技术企业|New Technology Ventures|创业与管理学院|洪苏婷
+600|492994|ENTR1009|创业企业融资|Entrepreneurial Finance|创业与管理学院|Vincenzo Buttice
+601|492994|ENTR1009|创业企业融资|Entrepreneurial Finance|创业与管理学院|Yujin Kim
+602|885629|ENTR1201|科技创业导论|Introduction to Technology Entrepreneurship|创业与管理学院|洪苏婷
+603|493401|FINA1001|量化金融|Quantitative Finance|创业与管理学院|冯黎明
+604|493403|FINA1002|投资和金融市场|Investment and Financial Market|创业与管理学院|赵金实
+605|493403|FINA1002|投资和金融市场|Investment and Financial Market|创业与管理学院|赵妍
+606|493403|FINA1002|投资和金融市场|Investment and Financial Market|创业与管理学院|张亚佩
+607|493396|FINA1003|金融学原理|Principles of Finance|创业与管理学院|何晨
+608|493396|FINA1003|金融学原理|Principles of Finance|创业与管理学院|周彤
+609|493396|FINA1003|金融学原理|Principles of Finance|创业与管理学院|郭明
+610|493398|FINA1004|商业统计原理|Principles of Business Statistics|创业与管理学院|杨乔
+611|493392|FINA1005|财务分析原理|Principles of Accounting|创业与管理学院|Lee Henderson
+612|493392|FINA1005|财务分析原理|Principles of Accounting|创业与管理学院|周静
+613|493392|FINA1005|财务分析原理|Principles of Accounting|创业与管理学院|贾建军
+614|493394|FINA1006|金融衍生品|Financial Derivatives|创业与管理学院|郭明
+615|493390|FINA1007|公司金融|Corporate Finance|创业与管理学院|王海之
+616|493390|FINA1007|公司金融|Corporate Finance|创业与管理学院|王龙
+617|493391|FINA1008|风险管理|Risk Management|创业与管理学院|伍海川
+618|493391|FINA1008|风险管理|Risk Management|创业与管理学院|杨乔
+619|493391|FINA1008|风险管理|Risk Management|创业与管理学院|李方方
+620|493387|FINA1009|金融工程|Financial Engineering|创业与管理学院|郭明
+621|493369|FINA1010|国际金融|International Finance|创业与管理学院|杨乔
+622|493369|FINA1010|国际金融|International Finance|创业与管理学院|陶涵毅
+623|493370|FINA1011|货币银行学|Money and Banking|创业与管理学院|姚亚伟
+624|493370|FINA1011|货币银行学|Money and Banking|创业与管理学院|陶涵毅
+625|622162|FINA1012|行为金融|Behavioral Finance|创业与管理学院|张亚佩
+626|493367|FINA1013|投资银行学|Investment Banking|创业与管理学院|赵金实
+627|493363|FINA1014|公司金融与财会原理|Corporate Finance and Principles of Accounting|创业与管理学院|贾建军
+628|818574|FINA1101|会计学原理|Principles of Accounting|创业与管理学院|贾建军
+629|822200|FORE2001|综合英语I|Comprehensive English I|教学事务处（已停用）|英孚项目管理
+630|822199|FORE2002|博士学位英语|English for Ph.D. Students|教学事务处（已停用）|丁雅萍
+631|822198|FORE2003|实用英语写作|Practical English Writing|教学事务处（已停用）|杨晓玲
+632|822198|FORE2003|实用英语写作|Practical English Writing|教学事务处（已停用）|丁雅萍
+633|822197|FORE2004|英语学术交流口语|Spoken English for Academic Purposes|教学事务处（已停用）|赵鸿雁
+634|493078|FORE2005|日语 I|Basic Japanese I|研究生院|计钢
+635|493201|FORE2006|德语I|Basic German I|研究生院|胡凯
+636|493199|FORE2007|法语I|Basic French I|研究生院|叶丽文
+637|822217|FORE2010|综合英语II|Comprehensive English II|教学事务处（已停用）|英孚项目管理
+638|822216|FORE2011|德语II|Basic German II|教学事务处（已停用）|胡凯
+639|493214|FORE2012|日语 II|Basic Japanese II|研究生院|计钢
+640|822215|FORE2013|法语II|Basic French II|教学事务处（已停用）|叶丽文
+641|822214|FORE2014|综合英语Ⅲ|Comprehensive English Ⅲ|教学事务处（已停用）|英孚项目管理
+642|822213|FORE2015|综合英语IV|Comprehensive English IV|教学事务处（已停用）|英孚项目管理
+643|822212|FORE2016|综合英语拓展（语言与文化）|General English Extended Lecture （Language and Culture)|教学事务处（已停用）|英孚项目管理
+644|822209|FORE2017|综合英语I（免修免考）|Comprehensive English I|教学事务处（已停用）|
+645|822208|FORE2018|综合英语II（免修免考）|Comprehensive English II|教学事务处（已停用）|
+646|887343|FORE2019|学术英语写作|Academic Writing|教学事务处（已停用）|杨晓玲
+647|493457|GE1001|现代木工设计及实践|Modern Woodworking Design and Practice|书院|缪晓东
+648|493457|GE1001|现代木工设计及实践|Modern Woodworking Design and Practice|书院|崔晓锋,缪晓东
+649|611379|GE1005|数字化环境|Digital Environment|书院|丁峻峰
+650|493454|GEHA1004|科技文明通论|Science, Technology and Civilization|人文科学研究院|刘夙
+651|493454|GEHA1004|科技文明通论|Science, Technology and Civilization|人文科学研究院|邹亚文
+652|493452|GEHA1005|古代文学传统与写作|Ancient Chinese Literary Tradition and Composition|人文科学研究院|陈娅妮
+653|493452|GEHA1005|古代文学传统与写作|Ancient Chinese Literary Tradition and Composition|人文科学研究院|曹洁
+654|493458|GEHA1006|现代文学传统与写作|Modern Chinese Literature and Writing|人文科学研究院|朱康
+655|493459|GEHA1009|《大学》《中庸》导读|Guided Reading on Daxue&Zhongyong|人文科学研究院|郭晓东
+656|493482|GEHA1010|《古希腊悲剧》导读|Guided Reading on Greek Tragedy|人文科学研究院|吴晓群
+657|493517|GEHA1023|逻辑|Logic|人文科学研究院|张晓光
+658|493543|GEHA1032|艺术表现|Art performance|通识教育中心（已停用）|黄诗茹
+659|493530|GEHA1038|综合英语I|General English I|人文科学研究院|Itumeleng Raseroka
+660|493530|GEHA1038|综合英语I|General English I|人文科学研究院|Andy Ran
+661|493530|GEHA1038|综合英语I|General English I|人文科学研究院|Lee Curry
+662|493530|GEHA1038|综合英语I|General English I|人文科学研究院|Lee Christine Charle
+663|493530|GEHA1038|综合英语I|General English I|人文科学研究院|Keenan Sass
+664|493534|GEHA1039|综合英语II|General English II|人文科学研究院|Damon Hansen
+665|493534|GEHA1039|综合英语II|General English II|人文科学研究院|Itumeleng Raseroka
+666|493534|GEHA1039|综合英语II|General English II|人文科学研究院|Andy Ran
+667|493534|GEHA1039|综合英语II|General English II|人文科学研究院|Paula Marcu
+668|493534|GEHA1039|综合英语II|General English II|人文科学研究院|Ronel van Wyngaard
+669|493534|GEHA1039|综合英语II|General English II|人文科学研究院|Kai Rojas
+670|493534|GEHA1039|综合英语II|General English II|人文科学研究院|Lee Curry
+671|493534|GEHA1039|综合英语II|General English II|人文科学研究院|Louise Worsfold
+672|493534|GEHA1039|综合英语II|General English II|人文科学研究院|Luke Stephen AKAL
+673|493534|GEHA1039|综合英语II|General English II|人文科学研究院|Keenan Sass
+674|493571|GEHA1040|综合英语III|General English III|人文科学研究院|Charlie Su
+675|493571|GEHA1040|综合英语III|General English III|人文科学研究院|Louise Worsfold
+676|690844|GEHA1042|综合英语III-英美文学|General English III-British & American Literature|人文科学研究院|Damon Hansen
+677|690844|GEHA1042|综合英语III-英美文学|General English III-British & American Literature|人文科学研究院|邹羽
+678|777535|GEHA1043|综合英语III-高阶英语写作|General English III-Advanced Writing|人文科学研究院|邹羽
+679|493578|GEHA1044|20世纪中国知识分子史|China Intellectuals in 20th Century|人文科学研究院|唐小兵
+680|493608|GEHA1050|中华文明通论|Introduction to Chinese Civilization|人文科学研究院|刘勋
+681|493617|GEHA1055|《春秋左传》精读|In-depth Reading of Chun Qiu Zuo Zhuan|人文科学研究院|刘勋
+682|493615|GEHA1056|中外电影与舞台艺术赏析|The Art of Film and Stage Performance|创意与艺术学院|任明
+683|493640|GEHA1062|经典文学与诗意人生|Classic Literature ＆Poetic Life|人文科学研究院|吉文斌
+684|493647|GEHA1067|《君主论》导读|Introduction of The Prince|人文科学研究院|周林刚
+685|493631|GEHA1068|中国传统造物文化|Chinese traditional creation culture|书院|邱俊
+686|611377|GEHA1072|基础德语I|Basic German I|人文科学研究院|吴勇立
+687|750419|GEHA1073|英语词汇与文化|English Lexicology|人文科学研究院|吕乐
+688|612330|GEHA1074|《周易》与文化|The Book of Changes and Culture|人文科学研究院|邓辉
+689|612332|GEHA1075|《诗经》导读|The Book of Songs Intruduction|人文科学研究院|吉文斌
+690|612331|GEHA1076|《庄子》的世界|The world in chuangzi|人文科学研究院|聂保平
+691|690841|GEHA1077|综合英语III-公共演讲与跨文化交流|General English III-Public Speaking & Intercultural Communication|人文科学研究院|Keenan Sass
+692|690840|GEHA1078|综合英语III-科幻小说与音乐文化|General English III-Science Fiction & Music Culture|人文科学研究院|Lee Curry
+693|690840|GEHA1078|综合英语III-科幻小说与音乐文化|General English III-Science Fiction & Music Culture|人文科学研究院|Kai Rojas
+694|690839|GEHA1079|综合英语IV-高阶英语写作|General English IV-Advanced Writing|人文科学研究院|Itumeleng Raseroka
+695|690842|GEHA1080|综合英语IV-学术英语听力与写作|General English IV-Academic Listening & Writing|人文科学研究院|Charlie Su
+696|691122|GEHA1081|小说阅读|Novel Reading|人文科学研究院|张蕴贤
+697|691266|GEHA1082|基础德语II|Basic German II|人文科学研究院|吴勇立
+698|777492|GEHA1084|杜威《哲学的改造》导读|An introduction to John Dewey’s Reconstruction in Philosophy|人文科学研究院|孙斌
+699|691267|GEHA1085|论说文写作|Essay Writing|人文科学研究院|张蕴贤
+700|691405|GEHA1086|哲学导论|Introduction to Philosophy|人文科学研究院|曾誉铭,聂保平,聂清
+701|691405|GEHA1086|哲学导论|Introduction to Philosophy|人文科学研究院|聂保平
+702|777493|GEHA1087|柏拉图《理想国》导读|Introduction to Plato’s Republic|人文科学研究院|高桦
+703|750947|GEHA1088|老子与《老子》|LAO ZI AND LAO ZI|人文科学研究院|邓辉
+704|742947|GEHA1089|通俗文学|Popular Literature|人文科学研究院|张蕴贤
+705|815861|GEHA1090|二十世纪中国文学|The Literature of China in the Twentieth Century|人文科学研究院|毛佩洁
+706|777495|GEHA1092|禅文化|Zen Culture|人文科学研究院|聂清
+707|777497|GEHA1093|书法与中国文化|Calligraphy and Chinese Culture|人文科学研究院|聂清
+708|750948|GEHA1095|红色圣地-从开天辟地到上海解放|Land -- from the beginning to the liberation of Shanghai|思想政治理论课教研部|徐光寿
+709|822193|GEHA1097|习近平新时代中国特色社会主义思想概论|Introduction to Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era|人文科学研究院|欧阳光明
+710|750949|GEHA1098|传统中国的政治文化|the political culture of traditional China|人文科学研究院|李磊
+711|815862|GEHA1099|综合英语IV-英语小说|General English IV-Readings in English- Language Fiction|人文科学研究院|邹羽
+712|815868|GEHA1101|丝绸之路与东西文化交流|Cultural Interaction between East and West along the Silk Road & Maritime Silk Road|人文科学研究院|林磊
+713|815867|GEHA1102|佛教哲学|Buddhist Philosophy|人文科学研究院|聂清
+714|815870|GEHA1103|先唐文学经典导读|Introduction to Classics of Pre-Tang Literature|人文科学研究院|陈娅妮
+715|815872|GEHA1105|上海：文学与城市|Shanghai: Literature and the City|人文科学研究院|毛佩洁
+716|815871|GEHA1106|综合英语III-跨文化商务沟通与写作|General English III-International Business Communication|人文科学研究院|Andy Ran
+717|815871|GEHA1106|综合英语III-跨文化商务沟通与写作|General English III-International Business Communication|人文科学研究院|Keenan Sass
+718|815875|GEHA1107|综合英语III-从古希腊神话到当代科幻小说|General English III-From Ancient to Futuristic Mythology|人文科学研究院|Lee Curry
+719|815874|GEHA1108|综合英语III-高阶英语阅读|General English III Advanced Critical Reading|人文科学研究院|Damon Hansen
+720|815878|GEHA1111|逻辑导论|An Introduction to Logic|人文科学研究院|郝旭东
+721|815877|GEHA1112|《浮士德》导读|Introduction to Goethe’s “Faust”|人文科学研究院|吴勇立
+722|885637|GEHA1113|莎剧选读|Reading Shakespeare|人文科学研究院|邹羽
+723|885639|GEHA1114|1770年到1920年间的美国史|United States 1770-1920：from the Revolution to the Great Migration|人文科学研究院|Goodin Brett Garrett
+724|885638|GEHA1115|1955 年到1975年间的美国史|United States 1955-1975: sociopolitical transformations|人文科学研究院|Goodin Brett Garrett
+725|885640|GEHA1117|宋词导读|Introduction to Song Ci|人文科学研究院|陈娅妮
+726|885642|GEHA1119|中美关系史|History of Sino-American Relations|人文科学研究院|徐国琦
+727|885650|GEHA1120|汉语言文字与中国文化|Chinese Language and Culture|人文科学研究院|郭永秉
+728|885651|GEHA1121|基础英语I|Basic English I|人文科学研究院|Paula Marcu
+729|885644|GEHA1123|说理写作|Essay Writing|人文科学研究院|张蕴贤
+730|885643|GEHA1124|小说阅读与批评|Novel Reading|人文科学研究院|张蕴贤
+731|885646|GEHA1125|中国古代文学与现代风华|Ancient Chinese Literature and its Contemporary Reflection|人文科学研究院|陈娅妮
+732|885645|GEHA1126|唐前诗文之美|The Beauty of Pre-Tang Literature|人文科学研究院|陈娅妮
+733|885648|GEHA1127|台湾文学与写作|Taiwan Literature and Writing Intensive Course|人文科学研究院|祁玥
+734|885647|GEHA1128|中国现代文学选读|Readings in Modern Chinese Literature|人文科学研究院|毛佩洁
+735|885649|GEHA1129|法兰西文明十五讲|Fifteen Lectures on French Civilization|人文科学研究院|刘禹汐
+736|885653|GEHA1130|南亚文明史导论|Introduction to South Asian Civilizations|人文科学研究院|Ritwik ranjan
+737|885652|GEHA1131|甘地和英帝国的衰落|Gandhi and the Decline of the British Empire : Politics and Legacy|人文科学研究院|Ritwik ranjan
+738|493357|GEMA1001|高等数学I|Calculus I|数学科学研究所|赵俐俐
+739|493357|GEMA1001|高等数学I|Calculus I|数学科学研究所|李铮
+740|626416|GEMA1002|数学分析I|Mathematical Analysis I|通识教育中心（已停用）|陈克应
+741|626418|GEMA1004|数学分析II|Mathematical Analysis II|通识教育中心（已停用）|陈克应
+742|493362|GEMA1006|数学物理方法I|Methods of Mathematic|数学科学研究所|王健
+743|626419|GEMA1007|数学建模|Mathematical Modeling|通识教育中心（已停用）|肖柳青
+744|493371|GEMA1009|数学分析I|Mathematical Analysis I|数学科学研究所|谢之福
+745|493371|GEMA1009|数学分析I|Mathematical Analysis I|数学科学研究所|张正
+746|493371|GEMA1009|数学分析I|Mathematical Analysis I|数学科学研究所|孙伟
+747|493371|GEMA1009|数学分析I|Mathematical Analysis I|数学科学研究所|陈克应
+748|493371|GEMA1009|数学分析I|Mathematical Analysis I|数学科学研究所|董俊斌
+749|493371|GEMA1009|数学分析I|Mathematical Analysis I|数学科学研究所|张子宇
+750|493371|GEMA1009|数学分析I|Mathematical Analysis I|数学科学研究所|姚成建
+751|493371|GEMA1009|数学分析I|Mathematical Analysis I|数学科学研究所|薛博卿
+752|493388|GEMA1010|数学分析II|Mathematical Analysis II|数学科学研究所|张正
+753|493388|GEMA1010|数学分析II|Mathematical Analysis II|数学科学研究所|孙伟
+754|493388|GEMA1010|数学分析II|Mathematical Analysis II|数学科学研究所|陈克应
+755|493388|GEMA1010|数学分析II|Mathematical Analysis II|数学科学研究所|董俊斌
+756|493388|GEMA1010|数学分析II|Mathematical Analysis II|数学科学研究所|张子宇
+757|493388|GEMA1010|数学分析II|Mathematical Analysis II|数学科学研究所|姚成建
+758|493388|GEMA1010|数学分析II|Mathematical Analysis II|数学科学研究所|张若冰
+759|493388|GEMA1010|数学分析II|Mathematical Analysis II|数学科学研究所|薛博卿
+760|493388|GEMA1010|数学分析II|Mathematical Analysis II|数学科学研究所|许斌
+761|493119|GENS1001|杏林探宝--带你走进中药|Treasures of Traditional Chinese Medicine, Getting to Know TCM|书院|杨柏灿
+762|493122|GENS1006|天文学基础与飞行器设计|Astronomy Basics and S pacecraft Design|书院|陈宏宇
+763|493596|GEPE1007|击剑与防卫 I|Fencing and Defend I|书院|赵传杰
+764|493596|GEPE1007|击剑与防卫 I|Fencing and Defend I|书院|费正伟,赵传杰
+765|493596|GEPE1007|击剑与防卫 I|Fencing and Defend I|书院|费正伟
+766|493603|GEPE1009|健美操I|Aerobics I|书院|刘浩
+767|493603|GEPE1009|健美操I|Aerobics I|书院|孙晓姣
+768|493570|GEPE1011|篮球 I|Basketball I|书院|李菁
+769|493570|GEPE1011|篮球 I|Basketball I|书院|谭晓缨
+770|493576|GEPE1015|乒乓球 I|Table Tennis I|书院|柳瑞芝,王艳
+771|493576|GEPE1015|乒乓球 I|Table Tennis I|书院|朱玲
+772|493576|GEPE1015|乒乓球 I|Table Tennis I|书院|完好
+773|493576|GEPE1015|乒乓球 I|Table Tennis I|书院|佘竞妍
+774|493576|GEPE1015|乒乓球 I|Table Tennis I|书院|王艳
+775|493559|GEPE1017|拳击与塑形 I|Boxing I|书院|张震
+776|493564|GEPE1019|跆拳道 I|Taekwondo I|书院|杨鹏飞
+777|493564|GEPE1019|跆拳道 I|Taekwondo I|书院|金永盛
+778|493542|GEPE1023|网球I|Tennis I|书院|罗晓洁
+779|493542|GEPE1023|网球I|Tennis I|书院|钟建荣
+780|612333|GEPE1025|游泳 I|Swimming I|书院|黄卫
+781|612333|GEPE1025|游泳 I|Swimming I|书院|潘黎君
+782|612333|GEPE1025|游泳 I|Swimming I|书院|郭叶舟
+783|612333|GEPE1025|游泳 I|Swimming I|书院|潘黎君,黄卫
+784|612333|GEPE1025|游泳 I|Swimming I|书院|王建
+785|693312|GEPE1026|游泳 II|Swimming II|书院|黄卫
+786|693312|GEPE1026|游泳 II|Swimming II|书院|潘黎君
+787|693312|GEPE1026|游泳 II|Swimming II|书院|郭叶舟
+788|493527|GEPE1028|羽毛球 I|Badminton I|书院|卢志泉
+789|493527|GEPE1028|羽毛球 I|Badminton I|书院|陈周业
+790|493527|GEPE1028|羽毛球 I|Badminton I|书院|卢志泉,陈周业
+791|493489|GEPE1030|足球 I|Soccer I|书院|郑鹭宾
+792|493506|GEPE1032|武术 I|Martial Arts I|书院|李建文
+793|493506|GEPE1032|武术 I|Martial Arts I|书院|范燕美
+794|493506|GEPE1032|武术 I|Martial Arts I|书院|刘文武
+795|493510|GEPE1034|保健课 I|Health-care Curriculum I|书院|丁丽萍
+796|493510|GEPE1034|保健课 I|Health-care Curriculum I|书院|戴有祥
+797|493515|GEPE1036|田径基础I|Track and Field Foundation I|书院|李玉章
+798|619339|GEPE1040|体能与健身I|Strength and Conditioning Training I|书院|王然
+799|693310|GEPE1041|体能与健身II|Strength and Conditioning Training|书院|王然
+800|616871|GEPE1042|基础瑜伽I|Basic Yoga I|书院|张宇皎
+801|693311|GEPE1043|基础瑜伽II|Basic Yoga II|书院|张宇皎
+802|753794|GEPE1044|竞技游泳入门|Introduction to competitive swimming|书院|黄卫
+803|753794|GEPE1044|竞技游泳入门|Introduction to competitive swimming|书院|潘黎君
+804|753795|GEPE1045|击剑技能与竞赛|Fencing skills and competition|书院|赵传杰
+805|753795|GEPE1045|击剑技能与竞赛|Fencing skills and competition|书院|费正伟
+806|493195|GEPS1004|积极心理学|Positive Psychology|书院|蔡雅琦
+807|493306|GESS1014|马克思主义基本原理概论|The Basically Principle of Marxism|人文科学研究院|焦成焕
+808|493306|GESS1014|马克思主义基本原理概论|The Basically Principle of Marxism|人文科学研究院|乔戈
+809|493304|GESS1018|中国近现代史纲要|Chinese Modern and Contemporary History|思想政治理论课教研部|林磊
+810|493304|GESS1018|中国近现代史纲要|Chinese Modern and Contemporary History|思想政治理论课教研部|于凯
+811|493304|GESS1018|中国近现代史纲要|Chinese Modern and Contemporary History|思想政治理论课教研部|李磊
+812|493314|GESS1020|《德意志意识形态·费尔巴哈》句读|Sentence Reading of The German Ideology–Feuerbach|人文科学研究院|葛君
+813|493312|GESS1023|毛泽东思想与中国特色社会主义理论体系概论（理论课）|Intro to Mao Zedong Thought and the Theoretical System of Socialism with Chinese Characteristics|人文科学研究院|陈祥勤
+814|815897|GESS1025|日常生活中的民法|Civil Law in Life|思想政治理论课教研部|孙大伟
+815|885686|GESS1026|中国经济发展和改革进程|China’s Economic Development and Transformation|思想政治理论课教研部|陆丁
+816|885687|GESS1027|马克思主义基本原理|The Basically Principle of Marxism|思想政治理论课教研部|乔戈
+817|885688|GESS1028|思想道德与法治|Morality and the Rule of Law|思想政治理论课教研部|曾誉铭
+818|887348|GESS1029|托克维尔《论美国的民主》精读|Intensive Reading of Democracy in America|人文科学研究院|周林刚
+819|822191|JYJD001|博士学位英语|English for Ph.D. Students|教学事务处（已停用）|
+820|822192|JYJD002|中国马克思主义与当代|Marxism in Contemporary China|教学事务处（已停用）|
+821|622167|MATH1112|线性代数I|Linear Algebra I|数学科学研究所|陆疌
+822|622167|MATH1112|线性代数I|Linear Algebra I|数学科学研究所|戈振超
+823|622167|MATH1112|线性代数I|Linear Algebra I|数学科学研究所|Timothy James Talbot
+824|622167|MATH1112|线性代数I|Linear Algebra I|数学科学研究所|李皓昭
+825|622167|MATH1112|线性代数I|Linear Algebra I|数学科学研究所|Yosuke Imagi
+826|622167|MATH1112|线性代数I|Linear Algebra I|数学科学研究所|Brian Weber
+827|622167|MATH1112|线性代数I|Linear Algebra I|数学科学研究所|Matthew James Randall
+828|622167|MATH1112|线性代数I|Linear Algebra I|数学科学研究所|hashimoto yoshinori
+829|622167|MATH1112|线性代数I|Linear Algebra I|数学科学研究所|郑恺
+830|622167|MATH1112|线性代数I|Linear Algebra I|数学科学研究所|王强
+831|622167|MATH1112|线性代数I|Linear Algebra I|数学科学研究所|蔡明亮
+832|622167|MATH1112|线性代数I|Linear Algebra I|数学科学研究所|蒋云峰
+833|622167|MATH1112|线性代数I|Linear Algebra I|数学科学研究所|Nicholas James Lindsay
+834|622167|MATH1112|线性代数I|Linear Algebra I|数学科学研究所|董俊斌
+835|622291|MATH1114|随机模拟方法与应用导论|Introduction to Stochastic Simulation Methods and its Application New Roman|数学科学研究所|肖柳青
+836|693317|MATH1122|线性代数II|Linear Algebra II|数学科学研究所|李龙
+837|693317|MATH1122|线性代数II|Linear Algebra II|数学科学研究所|王强
+838|777530|MATH1211|数学分析III|Mathematical Analysis III|数学科学研究所|蒋诗晓
+839|777530|MATH1211|数学分析III|Mathematical Analysis III|数学科学研究所|李皓昭
+840|622165|MATH1212|概率论与数理统计I|Probability and Statistics I|数学科学研究所|戈振超
+841|622165|MATH1212|概率论与数理统计I|Probability and Statistics I|数学科学研究所|邵子瑜
+842|622165|MATH1212|概率论与数理统计I|Probability and Statistics I|数学科学研究所|王强
+843|622165|MATH1212|概率论与数理统计I|Probability and Statistics I|数学科学研究所|Matthew James Randall
+844|622165|MATH1212|概率论与数理统计I|Probability and Statistics I|数学科学研究所|薛博卿
+845|622165|MATH1212|概率论与数理统计I|Probability and Statistics I|数学科学研究所|石远明
+846|622165|MATH1212|概率论与数理统计I|Probability and Statistics I|数学科学研究所|王浩
+847|777531|MATH1213|数学物理方法I|Methods of Mathematic I|数学科学研究所|王健
+848|777536|MATH1221|复分析|Complex Analysis|数学科学研究所|李龙
+849|815885|MATH1222|常微分方程|Ordinary Differential Equations|数学科学研究所|谢之福
+850|885662|MATH1223|实分析|Real Analysis|数学科学研究所|Brian Weber
+851|815886|MATH1224|近世代数|Abstract Algebra|数学科学研究所|Daniel Skodlerack
+852|622160|MATH1311|数学建模|Mathematical Modeling|数学科学研究所|肖柳青
+853|885680|MATH1312|概率论与数理统计II|Probability and Statistics II|数学科学研究所|葛淑菲
+854|777516|MATH1313|拓扑学|Topology|数学科学研究所|涂君武
+855|885678|MATH1315|偏微分方程I|Partial Differential Equations I|数学科学研究所|Quoc Hung Nguyen
+856|885679|MATH1316|微分几何|Differential Geometry|数学科学研究所|蔡明亮
+857|885677|MATH1317|线性规划|Linear Program|数学科学研究所|张子宇
+858|885681|MATH1321|交换代数|Commutative Algebra|数学科学研究所|Daniel Skodlerack
+859|693301|MATH1426|数值分析|Numerical Analysis|数学科学研究所|王健
+860|693301|MATH1426|数值分析|Numerical Analysis|数学科学研究所|胡京辰
+861|622159|MATH1427|随机过程|Stochastic Process|数学科学研究所|Tongseok Lim
+862|622159|MATH1427|随机过程|Stochastic Process|数学科学研究所|葛淑菲
+863|819252|MATH2001|机器学习的统计方法|Statistical Learning Method|数学科学研究所|胡京辰
+864|693471|MATH2111|拓扑数据分析导论|An introductory course to topological data analysis|数学科学研究所|涂君武
+865|819250|MATH2221|微分拓扑导论|Introduction to Differential Topology|数学科学研究所|Yosuke Imagi
+866|493234|MGMT1000|商业分析基础|Fundamentals of Business Analysis|创业与管理学院|周小宇
+867|493234|MGMT1000|商业分析基础|Fundamentals of Business Analysis|创业与管理学院|郑雯
+868|493237|MGMT1001|营销学|Marketing 101|创业与管理学院|范筱萌
+869|493237|MGMT1001|营销学|Marketing 101|创业与管理学院|周小宇
+870|493238|MGMT1002|创业营销|Entrepreneurial Marketing|创业与管理学院|范筱萌
+871|493238|MGMT1002|创业营销|Entrepreneurial Marketing|创业与管理学院|周小宇
+872|493238|MGMT1002|创业营销|Entrepreneurial Marketing|创业与管理学院|何晨
+873|493239|MGMT1003|营销渠道与中国市场||创业与管理学院|周小宇
+874|493373|MGMT1100|管理科学|Management Science|创业与管理学院|陈琛
+875|493375|MGMT1101|商业模式|Business Models|创业与管理学院|陈琛
+876|493377|MGMT1102|商业模式|Business Models|创业与管理学院|陈琛
+877|493378|MGMT1103|数据思维与商业数据分析|Business Analytic|创业与管理学院|周小宇
+878|818571|MGMT1104|管理学原理|Principles of Management|创业与管理学院|周小宇
+879|818572|MGMT1105|营销学原理|Principles of  Marketing|创业与管理学院|范筱萌
+880|885684|MGMT1201|运筹学导论|Introduction to Operations Research|创业与管理学院|刘宝龙
+881|745203|MGMT1301|生产运作管理|Production and Operations Management|创业与管理学院|刘宝龙
+882|626414|MSE1301|材料科学基础I（含实验）|Fundamentals of Materials Science I (with Lab)|物质科学与技术学院|王江干
+883|626414|MSE1301|材料科学基础I（含实验）|Fundamentals of Materials Science I (with Lab)|物质科学与技术学院|章跃标
+884|626413|MSE1303|材料科学基础II|Fundamental of Materials Science II|物质科学与技术学院|管晓飞
+885|626413|MSE1303|材料科学基础II|Fundamental of Materials Science II|物质科学与技术学院|戎詠华
+886|626413|MSE1303|材料科学基础II|Fundamental of Materials Science II|物质科学与技术学院|邱惠斌
+887|493118|MSE1305|材料力学|Mechanics of Materials|物质科学与技术学院|陶昉敏
+888|493124|MSE1309|纳米材料|Nanomaterials|物质科学与技术学院|李涛
+889|493130|MSE1311|材料热力学|Materials Thermodynamics|物质科学与技术学院|管晓飞
+890|619142|MSE1315|材料力学|Mechanics of Materials|物质科学与技术学院|张洪题
+891|622386|MSE1321|材料科学基础I：晶体结构和缺陷|Fundamentals of Materials Science I|物质科学与技术学院|刘巍
+892|693141|MSE1323|材料科学基础II：相图和相变|Fundamental of Materials Science II|物质科学与技术学院|管晓飞
+893|626415|MSE1381|材料科学基础I|Fundamentals of Materials Science I|物质科学与技术学院|刘巍
+894|626415|MSE1381|材料科学基础I|Fundamentals of Materials Science I|物质科学与技术学院|章跃标
+895|493168|MSE1501|材料分析方法（含实验）|Analytical Methods for Materials Science (with Lab)|物质科学与技术学院|马延航
+896|493170|MSE1503|材料物理性能（含实验）|Physical Properties of Materials (with Lab)|物质科学与技术学院|唐永军
+897|493173|MSE1506|材料制备与加工（含实验）|Synthesis and Fabrication of Materials (with Lab)|物质科学与技术学院|张洪题
+898|493175|MSE1508|高分子化学与物理（含实验）|Polymer Chemistry and Physics (with Lab)|物质科学与技术学院|席红霞
+899|622156|MSE1510|材料物理生物|Material physical biology|物质科学与技术学院|郭硕
+900|493193|MSE1511|半导体材料与器件|Semiconductor Material and Devices|物质科学与技术学院|刘灰礼
+901|493193|MSE1511|半导体材料与器件|Semiconductor Material and Devices|物质科学与技术学院|John Andrew McGuire
+902|777513|MSE1512|材料物理化学|Physical Chemistry of Materials|物质科学与技术学院|管晓飞
+903|622155|MSE1513|材料科学实验（上）|Material Science Lab I|物质科学与技术学院|席红霞
+904|693144|MSE1514|材料固体物理|Solid State Physics for Material Science|物质科学与技术学院|李军
+905|693143|MSE1515|材料科学实验（下）|Material Science Lab II|物质科学与技术学院|薛加民
+906|693143|MSE1515|材料科学实验（下）|Material Science Lab II|物质科学与技术学院|席红霞
+907|693143|MSE1515|材料科学实验（下）|Material Science Lab II|物质科学与技术学院|唐永军,席红霞
+908|815891|MSE1516|细胞物理生物学|Cell Physical Biology|物质科学与技术学院|郭硕
+909|815892|MSE1518|高分子化学（含实验）|Polymer chemistry (with Lab)|物质科学与技术学院|朱幸俊
+910|885671|MSE1520|高分子物理（含实验）|Polymer physics（with lab）|物质科学与技术学院|凌盛杰,席红霞
+911|777508|MSE1525|材料制备与加工I：无机材料|Synthesis and Fabrication of Materials I|物质科学与技术学院|杨楠
+912|777507|MSE1526|材料制备与加工II：有机材料|Synthesis and Fabrication of Materials II|物质科学与技术学院|叶春洪
+913|618280|MSE1581|材料分析方法|Analytical Methods for Materials Science (with Lab)|物质科学与技术学院|马延航
+914|618281|MSE1583|材料物理性能|Physical Properties of Materials|物质科学与技术学院|于奕
+915|693151|MSE1585|材料制备与加工|Synthesis and Fabrication of Materials|物质科学与技术学院|杨楠
+916|815887|MSE1701|计算材料学|Computational Materials Science|物质科学与技术学院|刘健鹏
+917|493017|MSE1707|生物材料|Biological Material|物质科学与技术学院|钟超
+918|493031|MSE1711|储能材料与技术|Energy Storage Materials and Technologies|物质科学与技术学院|刘巍
+919|493032|MSE1713|电子显微分析|Electron Microscopy and Analysis|物质科学与技术学院|于奕
+920|815888|MSE1715|现代分析测试技术|Modern analysis and testing technology|物质科学与技术学院|邹志强
+921|759594|MSE1717|物质科学常用仪器概述|Modern Instrumental Techniques in Physical Science|物质科学与技术学院|王宏达
+922|493324|MSE2101|计算材料学|Computational Materials Science|物质科学与技术学院|陈效双
+923|822306|MSE2103|应用光学|Applied Optics|物质科学与技术学院|朱健强
+924|822308|MSE2104|材料研究方法（上）|Methods for Materials Characterization I|物质科学与技术学院|卓尚军
+925|822307|MSE2105|高等材料学|Advanced Materials Science|物质科学与技术学院|戎咏华
+926|822307|MSE2105|高等材料学|Advanced Materials Science|物质科学与技术学院|齐彦鹏
+927|822307|MSE2105|高等材料学|Advanced Materials Science|物质科学与技术学院|张洪题
+928|822303|MSE2106|纳米科技前沿|Frontier Research of Nano Technology|物质科学与技术学院|陈立桅
+929|777523|MSE2107|生物材料|Biological Materials|物质科学与技术学院|郑宜君
+930|822305|MSE2108|软物质微纳加工（含实验）|Nanofabrication for Soft Matters|物质科学与技术学院|刘一凡,王宏达
+931|822305|MSE2108|软物质微纳加工（含实验）|Nanofabrication for Soft Matters|物质科学与技术学院|刘一凡
+932|822304|MSE2109|燃机部件与材料设计基础|Gas Turbine, from physics to machinery|物质科学与技术学院|黄伟光
+933|822311|MSE2111|低温原理与技术|Cryogenic fundamentals and technologies|物质科学与技术学院|欧阳峥嵘
+934|822310|MSE2112|低温工程前沿|Advances in Cryogenic Engineering|物质科学与技术学院|欧阳峥嵘
+935|822281|MSE2114|材料研究方法（下）|Characterization Methods in Matrials Science (Part II)|物质科学与技术学院|卓尚军
+936|822282|MSE2116|相变存储技术基础|Technology of Phase Change Memory|物质科学与技术学院|宋志棠
+937|822279|MSE2118|新型能源与环境材料|New energy and environmental materials|物质科学与技术学院|陈立东
+938|493262|MSE2119|生物医学微纳器件|Fundamentals of Biomedical Micro-&Nano-Devices|物质科学与技术学院|刘一凡
+939|822290|MSE2120|高等纳米材料|Advanced Nanomaterials|物质科学与技术学院|谢琎
+940|493271|MSE2121|材化热力学|Molecular Thermodynamics on Material Chemistry|物质科学与技术学院|王宏达
+941|622161|MSE2125|能源科学与技术导论|Introduction to energy science and technology|物质科学与技术学院|黄伟光
+942|622161|MSE2125|能源科学与技术导论|Introduction to energy science and technology|物质科学与技术学院|龚昱
+943|622161|MSE2125|能源科学与技术导论|Introduction to energy science and technology|物质科学与技术学院|徐洪杰
+944|622161|MSE2125|能源科学与技术导论|Introduction to energy science and technology|物质科学与技术学院|林柏霖
+945|622161|MSE2125|能源科学与技术导论|Introduction to energy science and technology|物质科学与技术学院|刘巍,宁志军,杨帆,林柏霖,柳仲楷,武颖娜,王浩宇,申培垚,管晓飞,米启兮,蔡翔舟,薛加民,谢琎,陈刚,黄伟光
+946|815896|MSE2126|软物质微纳功能材料与技术|Fundamentals of Soft Functional Micro/Nanomaterials and Technology|物质科学与技术学院|叶春洪
+947|493395|MSE2201|太阳电池基础及工作原理|Principles of Solar Cells|物质科学与技术学院|刘正新
+948|493393|MSE2202|光子科学及其在表面科学中的应用|Photon Science and its Applications in Surface Science|物质科学与技术学院|刘志
+949|493393|MSE2202|光子科学及其在表面科学中的应用|Photon Science and its Applications in Surface Science|物质科学与技术学院|翁祖谦
+950|493399|MSE2203|微生物生物技术|Microbial Biotechnology|物质科学与技术学院|李健
+951|493397|MSE2204|计算建模在材料中的应用|Computational Modeling with Application to Materials|物质科学与技术学院|Yongjin Lee
+952|777527|MSE2205|合成生物学|Synthetic Biology|物质科学与技术学院|李健
+953|822201|MSE2301|纳米光电材料|Photoelectric Materials of Nanostructure|物质科学与技术学院|宁志军
+954|815863|MSE2302|多孔材料|Porous Materials|物质科学与技术学院|姜珊
+955|822206|MSE2501|纳米科技前沿|Frontier Research of Nano Technology|物质科学与技术学院|陈立桅
+956|693142|MSE2502|荧光光谱与显微成像|Fluorescence Spectroscopy and microscopy|物质科学与技术学院|沈晓钦
+957|885631|MSE2527|原位电子显微原理与技术|Basic Principles of in situ Electron Microscope|物质科学与技术学院|王竹君
+958|885676|MSE3001|高温结构材料基础|Fundamentals of High-Temperature Structural Materials|创意与艺术学院|张振波
+959|493145|PHYS1101|普通物理IA|General Physics IA|物质科学与技术学院|袁晓忠
+960|493140|PHYS1102|普通物理IB|General Physics IB|物质科学与技术学院|袁晓忠
+961|493141|PHYS1103|普通物理IIA|General Physics IIA|物质科学与技术学院|柯友启
+962|493136|PHYS1104|普通物理IIB|General Physics IIB|物质科学与技术学院|陈刚
+963|493138|PHYS1105|普通物理IC|General Physics IC|物质科学与技术学院|高景
+964|493154|PHYS1106|物理原理I：力学、热学|Principle of physics I：Mechanics，Thermal|物质科学与技术学院|柳仲楷
+965|493154|PHYS1106|物理原理I：力学、热学|Principle of physics I：Mechanics，Thermal|物质科学与技术学院|吴晗,柳仲楷
+966|493154|PHYS1106|物理原理I：力学、热学|Principle of physics I：Mechanics，Thermal|物质科学与技术学院|袁晓忠
+967|493155|PHYS1107|物理原理II：光学、电磁学|Principle of physics II：Optics，Electromagnetism|物质科学与技术学院|颜世超
+968|493215|PHYS1111|普通物理I实验|General Physics I Lab|物质科学与技术学院|于瑶
+969|493215|PHYS1111|普通物理I实验|General Physics I Lab|物质科学与技术学院|宦强
+970|493215|PHYS1111|普通物理I实验|General Physics I Lab|物质科学与技术学院|李润泽
+971|493215|PHYS1111|普通物理I实验|General Physics I Lab|物质科学与技术学院|游胤涛
+972|493215|PHYS1111|普通物理I实验|General Physics I Lab|物质科学与技术学院|李王尧
+973|493207|PHYS1113|普通物理II实验|General Physics II Lab|物质科学与技术学院|游胤涛
+974|493207|PHYS1113|普通物理II实验|General Physics II Lab|物质科学与技术学院|于瑶
+975|493207|PHYS1113|普通物理II实验|General Physics II Lab|物质科学与技术学院|吴晗
+976|493207|PHYS1113|普通物理II实验|General Physics II Lab|物质科学与技术学院|李王尧
+977|622157|PHYS1116|物理原理I实验|Principle of physics I lab|物质科学与技术学院|吴晗,柳仲楷,游胤涛
+978|622157|PHYS1116|物理原理I实验|Principle of physics I lab|物质科学与技术学院|游胤涛
+979|622157|PHYS1116|物理原理I实验|Principle of physics I lab|物质科学与技术学院|柳仲楷
+980|693145|PHYS1117|物理原理II实验|Principle of physics II lab|物质科学与技术学院|吴晗
+981|493047|PHYS1181|普通物理I|General Physics I|物质科学与技术学院|郭硕
+982|493047|PHYS1181|普通物理I|General Physics I|物质科学与技术学院|吴晗,赵爱迪
+983|493047|PHYS1181|普通物理I|General Physics I|物质科学与技术学院|翟晓芳
+984|493047|PHYS1181|普通物理I|General Physics I|物质科学与技术学院|赵爱迪
+985|493047|PHYS1181|普通物理I|General Physics I|物质科学与技术学院|柳学榕
+986|493047|PHYS1181|普通物理I|General Physics I|物质科学与技术学院|孙兆茹
+987|493047|PHYS1181|普通物理I|General Physics I|物质科学与技术学院|吴晗,彭鹏
+988|493047|PHYS1181|普通物理I|General Physics I|物质科学与技术学院|吴晗,李润泽
+989|493047|PHYS1181|普通物理I|General Physics I|物质科学与技术学院|吴晗,蒋易凡
+990|618210|PHYS1183|普通物理II|General Physics II|物质科学与技术学院|唐永军,陈刚
+991|618210|PHYS1183|普通物理II|General Physics II|物质科学与技术学院|柯友启
+992|618210|PHYS1183|普通物理II|General Physics II|物质科学与技术学院|赵爱迪
+993|618210|PHYS1183|普通物理II|General Physics II|物质科学与技术学院|高景
+994|618210|PHYS1183|普通物理II|General Physics II|物质科学与技术学院|陈刚
+995|618210|PHYS1183|普通物理II|General Physics II|物质科学与技术学院|唐永军,沈晓钦
+996|493235|PHYS1302|理论力学|Theoretical Mechanics|物质科学与技术学院|郭艳峰
+997|493236|PHYS1303|数学物理方法II|Mathematical Methods for PhysicsII|物质科学与技术学院|柳仲楷
+998|493242|PHYS1304|电动力学|Electrodynamics|物质科学与技术学院|任海沧
+999|493242|PHYS1304|电动力学|Electrodynamics|物质科学与技术学院|万唯实
+1000|493285|PHYS1311|光学实验|Optical Lab|物质科学与技术学院|游胤涛
+1001|693149|PHYS1313|数学物理方法II|Mathematical Methods for PhysicsII|物质科学与技术学院|柳学榕
+1002|693150|PHYS1314|电动力学|Electrodynamics|物质科学与技术学院|任海沧
+1003|693150|PHYS1314|电动力学|Electrodynamics|物质科学与技术学院|John Andrew McGuire
+1004|493075|PHYS1381|光学|Optics|物质科学与技术学院|沈晓钦
+1005|493075|PHYS1381|光学|Optics|物质科学与技术学院|刘晓平
+1006|493131|PHYS1393|原子物理学|Atomic Physics|物质科学与技术学院|乔山
+1007|493311|PHYS1501|量子力学|Quantum Mechanics|物质科学与技术学院|韩福祥
+1008|493334|PHYS1502|固体物理|Solid State Physics|物质科学与技术学院|薛加民
+1009|493338|PHYS1503|统计物理|Statistical Mechanics|物质科学与技术学院|翟晓芳
+1010|493338|PHYS1503|统计物理|Statistical Mechanics|物质科学与技术学院|刘晓平
+1011|493327|PHYS1504|计算物理|Computational Physics|物质科学与技术学院|李刚
+1012|493414|PHYS1511|量子力学B|Quantum Mechanics B|物质科学与技术学院|刘小井
+1013|815869|PHYS1512|固体物理I|Solid State Physics I|物质科学与技术学院|薛加民
+1014|777525|PHYS1521|量子力学I|Quantum Mechanics I|物质科学与技术学院|韩福祥
+1015|815865|PHYS1531|量子力学II|Quantum Mechanics II|物质科学与技术学院|韩福祥
+1016|777515|PHYS1541|量子力学导论|Introduction of Quantum Mechanics|物质科学与技术学院|刘小井
+1017|493289|PHYS1551|晶体衍射学|Diffraction Crystallography|物质科学与技术学院|江怀东
+1018|493291|PHYS1552|铁磁学|Physics of Magnetism|物质科学与技术学院|于平
+1019|493286|PHYS1553|激光原理技术|Laser Principles & Technologies|物质科学与技术学院|刘伟民
+1020|493284|PHYS1555|光电子技术|Photoelectronic Technology|物质科学与技术学院|颜世超
+1021|493435|PHYS1701|近代物理实验|Modern Physical Lab|物质科学与技术学院|游胤涛
+1022|493434|PHYS1702|物理前沿科学讲座|Frontier Research Seminar in Physics|物质科学与技术学院|颜世超
+1023|493434|PHYS1702|物理前沿科学讲座|Frontier Research Seminar in Physics|物质科学与技术学院|马延航
+1024|622163|PHYS1703|研究型物理实验|Explorative physics laboratory|物质科学与技术学院|薛加民
+1025|693152|PHYS1704|原子物理中的量子力学实验|Quantum Physics Experiments in Atom Physics|物质科学与技术学院|薛加民
+1026|751086|PHYS1706|物理学术竞赛创新实验|CUPT Laboratory|物质科学与技术学院|柳仲楷
+1027|493418|PHYS1751|超导物理与器件|Superconducting Physics and Devices|物质科学与技术学院|郭艳峰
+1028|881113|PHYS1752|人工智能原子制造|AI assisted atomic manufacturing|物质科学与技术学院|柳仲楷
+1029|881113|PHYS1752|人工智能原子制造|AI assisted atomic manufacturing|物质科学与技术学院|何旭明,孙兆茹,寇煦丰,柳仲楷,翟晓芳,虞晶怡,郑杰,陆卫,陆疌
+1030|493105|PHYS2101|量子场论|Quantum Field Theory|物质科学与技术学院|李刚
+1031|493103|PHYS2102|群论|Group Theory|物质科学与技术学院|韩福祥
+1032|493102|PHYS2103|应用统计方法|Applied Statistical Methods|物质科学与技术学院|徐晓岭
+1033|822243|PHYS2104|傅里叶光学|Fourier Optics|物质科学与技术学院|周常河
+1034|822242|PHYS2105|现代数值计算方法|Modern Numerical Methods|物质科学与技术学院|王健
+1035|822241|PHYS2106|高等量子力学（上）|Advanced quantum mechanics I|物质科学与技术学院|杨永
+1036|822246|PHYS2107|高等核物理与技术|Advanced Nuclear Physics|物质科学与技术学院|朱志远
+1037|822245|PHYS2108|高等电动力学（上）|Classical Electrodynamics I|物质科学与技术学院|李宾
+1038|822245|PHYS2108|高等电动力学（上）|Classical Electrodynamics I|物质科学与技术学院|刘健鹏
+1039|822244|PHYS2109|固体量子理论|Quantum Theory of the Solid State|物质科学与技术学院|韩福祥
+1040|493093|PHYS2110|高等热力学与统计物理|Advanced Thermodynamics and Statistical Physics|物质科学与技术学院|任海沧
+1041|822239|PHYS2111|高功率激光元器件研制：材料、制备与性能检测|An Introduction of optical materials and components for high power laser facility|物质科学与技术学院|邵建达
+1042|777506|PHYS2112|流体力学|Fluid Mechanics|物质科学与技术学院|万唯实
+1043|822238|PHYS2113|固体物理|Solid State Physics|物质科学与技术学院|周圣明
+1044|822237|PHYS2114|生物物理|Biophysics|物质科学与技术学院|傅英
+1045|885669|PHYS2115|凝聚态量子场论|Quantum field theory of condensed matter physics|物质科学与技术学院|李刚
+1046|822236|PHYS2116|高等量子力学（下）|Advanced quantum mechanics (II)|物质科学与技术学院|杨永
+1047|822240|PHYS2118|高等电动力学（下）|Classical Electrodynamics Ⅱ|物质科学与技术学院|李宾
+1048|822240|PHYS2118|高等电动力学（下）|Classical Electrodynamics Ⅱ|物质科学与技术学院|万唯实
+1049|493095|PHYS2119|纳米电子学和量子输运理论|Nanoelectronics and Quantum Transport Theory|物质科学与技术学院|柯友启
+1050|493132|PHYS2120|分子动力学模拟|Molecular Dynamics|物质科学与技术学院|孙兆茹
+1051|622154|PHYS2122|凝聚态拓扑物理|Topology in Condensed Matters|物质科学与技术学院|张石磊
+1052|622153|PHYS2123|现代X射线物理学基础|Elements of modern X-ray Physics|物质科学与技术学院|陈刚
+1053|622152|PHYS2124|相对论量子场论|Relativistic Quantum Field Theory|物质科学与技术学院|任海沧
+1054|622151|PHYS2125|光子科学导论|Introduction to Photon Science|物质科学与技术学院|刘志
+1055|622151|PHYS2125|光子科学导论|Introduction to Photon Science|物质科学与技术学院|翁祖谦
+1056|901210|PHYS2126|精密仪器机械设计|Scientific Instrument Design|物质科学与技术学院|柳学榕
+1057|493216|PHYS2201|表面物理|Surface Physics|物质科学与技术学院|于平
+1058|493211|PHYS2202|非线性光学|Nonlinear Optics|物质科学与技术学院|马国宏
+1059|493211|PHYS2202|非线性光学|Nonlinear Optics|物质科学与技术学院|John Andrew McGuire
+1060|493208|PHYS2203|半导体物理学|Principles of Semiconductor Physics|物质科学与技术学院|戴宁
+1061|493202|PHYS2205|飞秒激光与超快光谱技术|Femtosecond laser and ultrafast spectroscopy|物质科学与技术学院|刘伟民
+1062|493224|PHYS2208|先进光源与前沿技术|Advanced radiation sources and cutting-edge technologies|物质科学与技术学院|江怀东
+1063|822263|PHYS2301|电子显微镜原理|Basic Principles of Electron Microscpe|物质科学与技术学院|马延航
+1064|815890|PHYS2303|X射线光学器件与应用|X-Ray Optics：application & engineering|物质科学与技术学院|
+1065|822256|PHYS2311|高功率激光元器件导论|Introduction to high power laser components|物质科学与技术学院|邵建达
+1066|822222|PHYS2401|同步辐射和自由电子激光：原理，技术和应用|Synchrotron Radiation and Free Electron lasers: Principles, Technologies and Applications|物质科学与技术学院|刘志
+1067|822278|PHYS2503|应用光学|Applied Optics|物质科学与技术学院|朱健强
+1068|822277|PHYS2504|高等固体物理A|Advanced Solid State Physics A|物质科学与技术学院|周圣明
+1069|493252|PHYS2505|高等固体物理B|Solid State Physics B|物质科学与技术学院|张石磊
+1070|493252|PHYS2505|高等固体物理B|Solid State Physics B|物质科学与技术学院|韩福祥
+1071|815895|PHYS2506|高等原子分子物理学|Advanced atomic physics|物质科学与技术学院|刘小井
+1072|693146|PHYS2507|自由电子激光原理|Free electron laser physics|物质科学与技术学院|邓海啸
+1073|693146|PHYS2507|自由电子激光原理|Free electron laser physics|物质科学与技术学院|任海沧
+1074|745204|PHYS2508|软物质物理|Soft Matter Physics|物质科学与技术学院|郭硕
+1075|745204|PHYS2508|软物质物理|Soft Matter Physics|物质科学与技术学院|孙兆茹,郭硕
+1076|779188|PHYS2509|核能科学与技术概论|Introduction to nuclear energy science and technology|物质科学与技术学院|徐洪杰
+1077|779188|PHYS2509|核能科学与技术概论|Introduction to nuclear energy science and technology|物质科学与技术学院|万唯实,刘桂民,徐洪杰,王建强,蔡翔舟,龚昱
+1078|779188|PHYS2509|核能科学与技术概论|Introduction to nuclear energy science and technology|物质科学与技术学院|龚昱
+1079|777514|PHYS2510|应用光学|Applied Optics|物质科学与技术学院|刘晓平
+1080|885672|PHYS2555|光电子技术|Photoelectronic Technology|物质科学与技术学院|颜世超
+1081|901209|PHYS5001|基于大科学装置的材料表征与科学应用|Photon Science Summer School|物质科学与技术学院|刘志
+1082|822204|POLI2001|研究生思想政治理论课|Dialectics of Nature / Theory and Practice of Scientific Socialism|教学事务处（已停用）|李侠
+1083|822204|POLI2001|研究生思想政治理论课|Dialectics of Nature / Theory and Practice of Scientific Socialism|教学事务处（已停用）|何益忠
+1084|822202|POLI2002|博士研究生思想政治理论课|Selected Original Readings in Marxism and the Chinese and Foreign Modernization Theory|教学事务处（已停用）|赵鸣歧
+1085|822203|POLI2003|中国马克思主义与当代|Development History of Marxist Ideological|教学事务处（已停用）|赵鸣歧
+1086|896244|POLI2004|新时代中国特色社会主义理论与实践|Research on the Theory and Practice of Socialism with Chinese Characteristics in the New Era|思想政治理论课教研部|庄士成
+1087|896245|POLI2005|习近平新时代中国特色社会主义思想专题研究|A Special Study of Xi Jinping's Thought on Socialism with Chinese Characteristics in the New Era|思想政治理论课教研部|庄士成
+1088|896246|POLI2006|自然辩证法概论|An introduction to dialectics of nature|思想政治理论课教研部|王健
+1089|493353|QMS1101|质量101|Quality 101|创业与管理学院|戴珒
+1090|493353|QMS1101|质量101|Quality 101|创业与管理学院|Edna Hu,戴珒
+1091|493353|QMS1101|质量101|Quality 101|创业与管理学院|Edna Hu
+1092|493355|QMS1102|实验室管理和项目管理|Good Laboratory Practice & Project management|创业与管理学院|马亮
+1093|493355|QMS1102|实验室管理和项目管理|Good Laboratory Practice & Project management|创业与管理学院|Edna Hu
+1094|611378|QMS1103|项目管理|Project Management|创业与管理学院|高健
+1095|493349|QMS1104|实验室管理与文件管理|Good Laboratory Practices & Good Documentation Practices|创业与管理学院|戚炜
+1096|696595|QMS1105|实验室管理与实验设计|Lab Management and Experiment Design|创业与管理学院|赵简
+1097|696595|QMS1105|实验室管理与实验设计|Lab Management and Experiment Design|创业与管理学院|戚炜
+1098|493335|QMS2202|确认验证与持续改进|Validation, Verification and Continual Improvements|生命科学与技术学院|缪炜恺
+1099|493335|QMS2202|确认验证与持续改进|Validation, Verification and Continual Improvements|生命科学与技术学院|Robert Reich
+1100|493335|QMS2202|确认验证与持续改进|Validation, Verification and Continual Improvements|生命科学与技术学院|高春宇
+1101|493335|QMS2202|确认验证与持续改进|Validation, Verification and Continual Improvements|生命科学与技术学院|江智浩
+1102|493331|QMS2203|设计开发控制|Design and Development Control|生命科学与技术学院|陈恒
+1103|493331|QMS2203|设计开发控制|Design and Development Control|生命科学与技术学院|汪淑梅
+1104|493328|QMS2204|审核和采购控制|Audit Management and Supplier Control|生命科学与技术学院|张景辰
+1105|493328|QMS2204|审核和采购控制|Audit Management and Supplier Control|生命科学与技术学院|胡丽君
+1106|885685|QMS2205|风险、改进与验证|Risk, Improvement, and V&V  (RIVV)|生命科学与技术学院|周昊天,徐昊,江智浩
+1107|493385|QMS2301|医疗器械合规管理|Special Requirements for Medical Devices|生命科学与技术学院|Edna Hu,高春宇
+1108|493385|QMS2301|医疗器械合规管理|Special Requirements for Medical Devices|生命科学与技术学院|胡丽君
+1109|493385|QMS2301|医疗器械合规管理|Special Requirements for Medical Devices|生命科学与技术学院|高春宇
+1110|493385|QMS2301|医疗器械合规管理|Special Requirements for Medical Devices|生命科学与技术学院|Edna Hu
+1111|611257|QMS2302|精益生产|Lean Production|生命科学与技术学院|郭金声
+1112|779392|QMS2303|精益医疗|Lean Healthcare|生命科学与技术学院|罗伟
+1113|493484|SEMI1001|设计思维：应用创新|Design Thinking: Applied Innovation|创业与管理学院|牛磊
+1114|493484|SEMI1001|设计思维：应用创新|Design Thinking: Applied Innovation|创业与管理学院|袁雁悦
+1115|493484|SEMI1001|设计思维：应用创新|Design Thinking: Applied Innovation|创业与管理学院|陈雪
+1116|493484|SEMI1001|设计思维：应用创新|Design Thinking: Applied Innovation|创业与管理学院|洪苏婷
+1117|493484|SEMI1001|设计思维：应用创新|Design Thinking: Applied Innovation|创业与管理学院|黄伟力
+1118|493486|SEMI1002|创意城市|Creative Cities|创业与管理学院|David Emanuel Andersson
+1119|493462|SEMI1003|创新实验室1|InnoLab 1|创业与管理学院|Martin Daffner
+1120|493463|SEMI1005|商业计划|Business Plan|创业与管理学院|李玫
+1121|493463|SEMI1005|商业计划|Business Plan|创业与管理学院|郦光伟
+1122|493463|SEMI1005|商业计划|Business Plan|创业与管理学院|陈雪
+1123|493464|SEMI1007|医疗器械质量管理导论|Introduction to Quality Management Systems (QMS) and Quality Assurance (QA) for Medical Devices|创业与管理学院|Edna Hu
+1124|493465|SEMI1008|创造力智慧|Nurturing Creative Intelligence|创业与管理学院|Edward Bilous
+1125|493466|SEMI1009|创新实验室|InnoLab|创业与管理学院|袁雁悦
+1126|493466|SEMI1009|创新实验室|InnoLab|创业与管理学院|陈雪
+1127|493513|SEMI1010|创新实验室|InnoLab|创业与管理学院|Mikkel Lodahl
+1128|493516|SEMI1011|创新实验室：城市生活创新|InnoLab: Innovation for Urban Living|创业与管理学院|洪苏婷
+1129|493521|SEMI1013|质量管理：历史与基础|History of Quality Management and ISO 9001 Quality Management System|创业与管理学院|Edna Hu
+1130|493487|SEMI1015|商业设计里的创新和创意|Innovation and Creativity in Commercial Design|创业与管理学院|孙英杰
+1131|493487|SEMI1015|商业设计里的创新和创意|Innovation and Creativity in Commercial Design|创业与管理学院|曹清
+1132|493488|SEMI1016|创新管理|Managing Technological Innovation|创业与管理学院|郦光伟
+1133|611258|SEMI1017|创新实验室：金融科技创新|InnoLab: Innovation in FinTech|创业与管理学院|洪苏婷
+1134|622164|SEMI1019|创造力心理学：理论与实践|The Psychology of Creativity: Science and Practice|创业与管理学院|杨宇
+1135|622164|SEMI1019|创造力心理学：理论与实践|The Psychology of Creativity: Science and Practice|创业与管理学院|周昊天
+1136|753657|SEMI1101|设计思维：创业与管理中的创新方案|Design Thinking: Innovative Solutions in Entrepreneurship and Management|创业与管理学院|郦光伟
+1137|753657|SEMI1101|设计思维：创业与管理中的创新方案|Design Thinking: Innovative Solutions in Entrepreneurship and Management|创业与管理学院|司唯,贾建军,陈雪
+1138|753657|SEMI1101|设计思维：创业与管理中的创新方案|Design Thinking: Innovative Solutions in Entrepreneurship and Management|创业与管理学院|陶涵毅
+1139|885636|SEMI1102|设计思维：心理学与创新|Design Thinking: Accelerating Innovation with Psychology|创业与管理学院|周昊天,杨宇
+1140|746808|SEMI1301|创新科学：认知原理与市场应用|The Science of Human Innovation: From Mind to Market|创业与管理学院|杨宇
+1141|746808|SEMI1301|创新科学：认知原理与市场应用|The Science of Human Innovation: From Mind to Market|创业与管理学院|周昊天
+1142|493382|SEMI2011|医疗器械质量管理体系 I|Quality Management System Certificate Workshop I|创业与管理学院|Robert R. Reich
+1143|493383|SEMI2012|医疗器械质量管理体系 II|Quality Management System Certificate Workshop II|创业与管理学院|Robert O. Dean
+1144|493491|SI100|信息科学技术导论|Introduction to Information Science and Technology|信息科学与技术学院|陈浩
+1145|493296|SI100A|信息科学技术导论A|Introduction to Information Science and Technology A|信息科学与技术学院|陈浩
+1146|493295|SI100B|信息科学技术导论|Introduction to Information Science and Technology|信息科学与技术学院|刘闯,娄鑫,梁俊睿,陆林燕,高盛华
+1147|493295|SI100B|信息科学技术导论|Introduction to Information Science and Technology|信息科学与技术学院|陈浩
+1148|493295|SI100B|信息科学技术导论|Introduction to Information Science and Technology|信息科学与技术学院|寇煦丰
+1149|493295|SI100B|信息科学技术导论|Introduction to Information Science and Technology|信息科学与技术学院|梁俊睿
+1150|493295|SI100B|信息科学技术导论|Introduction to Information Science and Technology|信息科学与技术学院|张海鹏
+1151|493295|SI100B|信息科学技术导论|Introduction to Information Science and Technology|信息科学与技术学院|陆林燕
+1152|493295|SI100B|信息科学技术导论|Introduction to Information Science and Technology|信息科学与技术学院|虞晶怡
+1153|493295|SI100B|信息科学技术导论|Introduction to Information Science and Technology|信息科学与技术学院|邱越
+1154|493292|SI100C|计算机科技导论|Introduction to Computer Science|信息科学与技术学院|陈浩
+1155|493290|SI100D|信息科学技术导论|Introduction to Information Science and Technology|信息科学与技术学院|范睿
+1156|493293|SI100E|电子科技导论|Introduction to Electrical Engineering|信息科学与技术学院|哈亚军
+1157|493584|SI100EP|电子科技导论实验|Introduction to Electrical Engineering Lab|信息科学与技术学院|刘闯
+1158|493280|SI100P|信息科学技术导论课程设计|Information Science and Technology Project|信息科学与技术学院|Sören Schwertfeger
+1159|493280|SI100P|信息科学技术导论课程设计|Information Science and Technology Project|信息科学与技术学院|陈浩
+1160|493280|SI100P|信息科学技术导论课程设计|Information Science and Technology Project|信息科学与技术学院|高盛华
+1161|517004|SI102H|机械设计导论|Mechanical Design|信息科学与技术学院|Andre Luis Macedo Rosendo Silva
+1162|493474|SI112|高级几何学|Advanced Geometry|信息科学与技术学院|Manolis Tsakiris
+1163|493162|SI114H|计算科学与工程|Computational science and engineering|信息科学与技术学院|廖奇峰
+1164|493058|SI120|离散数学|Discrete Mathematics|信息科学与技术学院|姜嘉骅
+1165|493058|SI120|离散数学|Discrete Mathematics|信息科学与技术学院|张良峰
+1166|626411|SI131|线性代数|Linear Algebra|数学科学研究所|Tongseok Lim
+1167|626411|SI131|线性代数|Linear Algebra|数学科学研究所|廖奇峰
+1168|626411|SI131|线性代数|Linear Algebra|数学科学研究所|袁晓军
+1169|626411|SI131|线性代数|Linear Algebra|数学科学研究所|吴涛
+1170|626411|SI131|线性代数|Linear Algebra|数学科学研究所|姚成建
+1171|626411|SI131|线性代数|Linear Algebra|数学科学研究所|Matthew James Randall
+1172|493313|SI131H|线性代数|Linear Algebra|信息科学与技术学院|袁晓军
+1173|691269|SI132|线性代数在信息科学中的应用|Linear Algebra for Information Science|信息科学与技术学院|Manolis Tsakiris
+1174|885635|SI132C|信息科学中的线性代数|Linear Algebra in Information Science|信息科学与技术学院|Manolis Tsakiris
+1175|626412|SI140|概率论与数理统计|Probability and Statistics|信息科学与技术学院|邵子瑜
+1176|626412|SI140|概率论与数理统计|Probability and Statistics|信息科学与技术学院|孙伟
+1177|626412|SI140|概率论与数理统计|Probability and Statistics|信息科学与技术学院|耿艳林
+1178|626412|SI140|概率论与数理统计|Probability and Statistics|信息科学与技术学院|涂君武
+1179|626412|SI140|概率论与数理统计|Probability and Statistics|信息科学与技术学院|王浩
+1180|626420|SI140H|概率论与数理统计|Probability and Statistics|信息科学与技术学院|廖奇峰
+1181|493064|SI151|优化与机器学习|Optimization and Machine Learning|信息科学与技术学院|孙露
+1182|493064|SI151|优化与机器学习|Optimization and Machine Learning|信息科学与技术学院|石远明
+1183|885641|SI151A|凸优化及其在信息科学中的应用|Convex Optimization and its Applications in Information Science|信息科学与技术学院|石远明
+1184|777503|SI152|数值最优化|Numerical Optimization|信息科学与技术学院|王浩
+1185|493008|SI190|科学研究基本训练|Basic Training of Scientific Research|信息科学与技术学院|倪鹤南
+1186|493008|SI190|科学研究基本训练|Basic Training of Scientific Research|信息科学与技术学院|
+1187|815777|SI191A|本科科研项目|Undergraduate Research Project|信息科学与技术学院|徐天鸿
+1188|815778|SI191B|本科科研项目|Undergraduate Research Project|信息科学与技术学院|徐天鸿
+1189|815776|SI191C|本科科研项目|Undergraduate Research Project|信息科学与技术学院|徐天鸿
+1190|493013|SI192|应用代数几何|Applied Algebraic Geometry|信息科学与技术学院|Manolis Tsakiris
+1191|822225|SI200|研究生论文写作|Academic Paper Writing|信息科学与技术学院|刘松
+1192|493429|SI211|数值分析|Numerical Analysis|信息科学与技术学院|姜嘉骅
+1193|493429|SI211|数值分析|Numerical Analysis|信息科学与技术学院|Boris Houska
+1194|493425|SI214|偏微分方程数值解|Numerical Methods for PDEs|信息科学与技术学院|廖奇峰
+1195|822210|SI214C|应用数值计算|Applied Numerical Computing|信息科学与技术学院|廖奇峰
+1196|493184|SI214H|偏微分方程数值解|Numerical Methods for PDEs|信息科学与技术学院|廖奇峰
+1197|822226|SI231|矩阵分析|Matrix Analysis|信息科学与技术学院|Manolis Tsakiris
+1198|779194|SI231B|矩阵计算|Matrix computations|信息科学与技术学院|邱越
+1199|779194|SI231B|矩阵计算|Matrix computations|信息科学与技术学院|赵子平
+1200|493250|SI231H|矩阵分析|Matrix Analysis|信息科学与技术学院|Manolis Tsakiris
+1201|611962|SI232|子空间学习|Subspace Learning|信息科学与技术学院|Manolis Tsakiris
+1202|493059|SI241|随机过程|Probability and Stochastic Processes|信息科学与技术学院|邵子瑜
+1203|822224|SI241H|随机过程|Probability and Stochastic Processes|信息科学与技术学院|邵子瑜
+1204|493045|SI251|凸优化|Convex Optimization|信息科学与技术学院|石野
+1205|493045|SI251|凸优化|Convex Optimization|信息科学与技术学院|石远明
+1206|690981|SI252|强化学习|Reinforcement Learning|信息科学与技术学院|邵子瑜
+1207|885668|SI261|雾计算技术与应用|Fog Computing Technologies and Applications|信息科学与技术学院|杨旸
+1208|822228|SI290B|学术研究方法|Academic Research Method|信息科学与技术学院|哈亚军
+1209|693140|SI290D|信息科学技术发展伦理与道德|Ethics in the Development of Information Science and Technologies|信息科学与技术学院|杨丽凤
+1210|822194|SI360|智能车|Smart Vehicles|信息科学与技术学院|哈亚军
+1211|822196|SI361|多模态脑机接口：算法与系统|Multi-modal Brain-Computer Interface: Algorithms and Systems|信息科学与技术学院|何旭明
+1212|822195|SI362|光计算与光神经网络|Optical Computing and Optical Neural Network|信息科学与技术学院|王成
+1213|880617|SI363|智能多尺度成像与结构生物学解析|Intelligent Multi-scale Imaging for Structural Biology|信息科学与技术学院|何旭明
+1214|896148|SI364|人工智能在药物发现中的应用|AI for Drug Discovery|信息科学与技术学院|郑杰
+1215|693315|SL1004|生活中的生命科学|Life Science in our Daily Life|生命科学与技术学院|仓勇
+1216|777538|SL1005|合成生物学基础与应用|Introduction to Synthetic Biology: Principles and Applications|生命科学与技术学院|杨海涛
+1217|777539|SL1006|从模式生物看人类|Frontier researches with model organisms|生命科学与技术学院|童夏静
+1218|819253|SL1007|全球健康挑战|The challenges of global health|生命科学与技术学院|席莹
+1219|885696|SL1010|生命科学人物史|Key figures in Life Science history|生命科学与技术学院|张力烨
+1220|885695|SL1011|心血管健康与疾病|Cardiovascular health and diseases|生命科学与技术学院|张辉
+1221|885664|SMRT1102|工业设计表达I：透视表达|Industrial Design Communication I: Perspective|创意与艺术学院|
+1222|885663|SMRT1103|设计研究方法|Design Research Methods|创意与艺术学院|Shmueli Shimon
+1223|885659|SMRT1104|标准模型基础|Study Models|创意与艺术学院|史珺珺,樊明霄,顾明德
+1224|885658|SMRT1105|视觉传达设计I|Visual Communication Design I|创意与艺术学院|廖树林
+1225|885660|SMRT1106|计算机辅助设计入门|Introduction to CAD|创意与艺术学院|尹由之
+1226|885655|SMRT1119|行业调研|Industry Research|创意与艺术学院|
+1227|693148|SP1004|物质科学前沿讲座|Frontiers of Physical Science|物质科学与技术学院|柳学榕
+1228|493244|SP1103|科学研究基本训练|Basic Training of Scientific Research|物质科学与技术学院|
+1229|822219|SP1111|本科生科研项目|Undergraduate Research Project|物质科学与技术学院|
+1230|822220|SP1112|本科生科研项目|Undergraduate Research Project|物质科学与技术学院|
+1231|822221|SP1113|本科生科研项目|Undergraduate Research Project|物质科学与技术学院|
+1232|822218|SP1114|本科生科研项目|Undergraduate Research Project|物质科学与技术学院|
+1233|493348|SP2001|科研基础方法|Fundamental Methods for Scientific Research|物质科学与技术学院|李军
+1234|759596|SP2002|实验室安全与科研诚信|Laboratory Safety and Research Ethics|物质科学与技术学院|李军
+1235|759596|SP2002|实验室安全与科研诚信|Laboratory Safety and Research Ethics|物质科学与技术学院|刘海铭
+1236|822223|SP2003|研究生论文写作|Scientific paper writing for master students|物质科学与技术学院|李军
+1237|822223|SP2003|研究生论文写作|Scientific paper writing for master students|物质科学与技术学院|曹克诚
+1238|819182|SP2004|实验室安全知识与实践|Research Laboratory Safety and Practice|物质科学与技术学院|刘海铭
+1239|901208|SP2005|实验室安全与实践|Laboratory Safety and Practice|物质科学与技术学院|刘海铭
