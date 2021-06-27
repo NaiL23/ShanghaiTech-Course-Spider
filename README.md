@@ -1,6 +1,6 @@
 # Shanghaitech-Course-Spider
 
-基于上海科技大学虚拟教学社区与资源中心(https://lrc.shanghaitech.edu.cn/subject-lrc)公开课程信息的上科大开课信息爬虫。
+基于[上海科技大学虚拟教学社区与资源中心](https://lrc.shanghaitech.edu.cn/subject-lrc)公开课程信息的上科大开课信息爬虫。
 
 
 
